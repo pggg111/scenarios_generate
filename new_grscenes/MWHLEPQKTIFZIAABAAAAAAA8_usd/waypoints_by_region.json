@@ -477,6 +477,186 @@
             170,
             446
           ]
+        },
+        {
+          "id": "wp_r01_dining_area_auto_001",
+          "pixel": [
+            340,
+            405
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_030",
+          "clearance_m": 0.2425
+        },
+        {
+          "id": "wp_r01_dining_area_auto_002",
+          "pixel": [
+            264,
+            464
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_052",
+          "clearance_m": 0.2425
+        },
+        {
+          "id": "wp_r01_dining_area_auto_003",
+          "pixel": [
+            319,
+            463
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_020",
+          "clearance_m": 0.2627
+        },
+        {
+          "id": "wp_r01_dining_area_auto_004",
+          "pixel": [
+            234,
+            386
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_034",
+          "clearance_m": 0.2627
+        },
+        {
+          "id": "wp_r01_dining_area_auto_005",
+          "pixel": [
+            124,
+            456
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_005",
+          "clearance_m": 0.4473
+        },
+        {
+          "id": "wp_r01_dining_area_auto_006",
+          "pixel": [
+            189,
+            439
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_046",
+          "clearance_m": 0.7325
+        },
+        {
+          "id": "wp_r01_dining_area_auto_007",
+          "pixel": [
+            115,
+            401
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_003",
+          "clearance_m": 0.2425
+        },
+        {
+          "id": "wp_r01_dining_area_auto_008",
+          "pixel": [
+            135,
+            498
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_007",
+          "clearance_m": 0.2259
+        },
+        {
+          "id": "wp_r01_dining_area_auto_009",
+          "pixel": [
+            270,
+            386
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_032",
+          "clearance_m": 0.2223
+        },
+        {
+          "id": "wp_r01_dining_area_auto_010",
+          "pixel": [
+            450,
+            470
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_024",
+          "clearance_m": 0.2021
+        },
+        {
+          "id": "wp_r01_dining_area_auto_011",
+          "pixel": [
+            109,
+            317
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_001",
+          "clearance_m": 0.1212
+        },
+        {
+          "id": "wp_r01_dining_area_auto_012",
+          "pixel": [
+            303,
+            386
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_030",
+          "clearance_m": 0.1819
+        },
+        {
+          "id": "wp_r01_dining_area_auto_013",
+          "pixel": [
+            185,
+            384
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_056",
+          "clearance_m": 0.1819
+        },
+        {
+          "id": "wp_r01_dining_area_auto_014",
+          "pixel": [
+            166,
+            472
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_016",
+          "clearance_m": 0.1617
+        },
+        {
+          "id": "wp_r01_dining_area_auto_015",
+          "pixel": [
+            279,
+            476
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_019",
+          "clearance_m": 0.1578
+        },
+        {
+          "id": "wp_r01_dining_area_auto_016",
+          "pixel": [
+            105,
+            458
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_006",
+          "clearance_m": 0.1578
+        },
+        {
+          "id": "wp_r01_dining_area_auto_017",
+          "pixel": [
+            399,
+            472
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_022",
+          "clearance_m": 0.1471
+        },
+        {
+          "id": "wp_r01_dining_area_auto_018",
+          "pixel": [
+            190,
+            475
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_dining_area_016",
+          "clearance_m": 0.1294
         }
       ]
     }

@@ -673,6 +673,16 @@
             265,
             280
           ]
+        },
+        {
+          "id": "wp_r00_shopping_area_auto_001",
+          "pixel": [
+            137,
+            379
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shopping_area_008",
+          "clearance_m": 0.1368
         }
       ]
     },

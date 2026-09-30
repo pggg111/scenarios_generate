@@ -19,17 +19,9 @@ from PIL import Image
 
 
 DEFAULT_BEHAVIOR_TREE = "BTRegularNav.xml"
-DEFAULT_MODEL = "female_adult_business_02"
+DEFAULT_MODEL = "pedestrian"
 DEFAULT_VELOCITY = 0.8
 DEFAULT_DESIRED_VELOCITY = 1.0
-
-HUMAN_MODELS = [
-    "female_adult_business_02",
-    "male_adult_medical_01",
-    "female_adult_medical_01",
-    "male_adult_construction_01",
-    "female_adult_police_01",
-]
 
 
 class ScenarioYamlDumper(yaml.SafeDumper):
@@ -257,7 +249,7 @@ def scenario_from_tracks(tracks: list[Track], mapping: CameraRayMapping, args: a
             scenario["dynamic"].append(
                 {
                     "name": f"hunav_{human_index}",
-                    "model": HUMAN_MODELS[(human_index - 1) % len(HUMAN_MODELS)],
+                    "model": DEFAULT_MODEL,
                     "pose": pose,
                     "behavior_tree": DEFAULT_BEHAVIOR_TREE,
                     "velocity": rounded(args.human_velocity, args.round),

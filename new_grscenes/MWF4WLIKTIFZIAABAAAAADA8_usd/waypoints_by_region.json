@@ -706,6 +706,4236 @@
             639,
             819
           ]
+        },
+        {
+          "id": "wp_r00_classroom_auto_001",
+          "pixel": [
+            677,
+            719
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_005",
+          "clearance_m": 0.6466
+        },
+        {
+          "id": "wp_r00_classroom_auto_002",
+          "pixel": [
+            343,
+            1079
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_031",
+          "clearance_m": 0.4584
+        },
+        {
+          "id": "wp_r00_classroom_auto_003",
+          "pixel": [
+            598,
+            1023
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_062",
+          "clearance_m": 2.6958
+        },
+        {
+          "id": "wp_r00_classroom_auto_004",
+          "pixel": [
+            431,
+            912
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_034",
+          "clearance_m": 1.869
+        },
+        {
+          "id": "wp_r00_classroom_auto_005",
+          "pixel": [
+            675,
+            909
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.988
+        },
+        {
+          "id": "wp_r00_classroom_auto_006",
+          "pixel": [
+            603,
+            1106
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_070",
+          "clearance_m": 1.2342
+        },
+        {
+          "id": "wp_r00_classroom_auto_007",
+          "pixel": [
+            425,
+            710
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_002",
+          "clearance_m": 1.4482
+        },
+        {
+          "id": "wp_r00_classroom_auto_008",
+          "pixel": [
+            873,
+            1053
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_056",
+          "clearance_m": 1.7205
+        },
+        {
+          "id": "wp_r00_classroom_auto_009",
+          "pixel": [
+            759,
+            805
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_041",
+          "clearance_m": 2.4424
+        },
+        {
+          "id": "wp_r00_classroom_auto_010",
+          "pixel": [
+            910,
+            747
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_044",
+          "clearance_m": 1.6574
+        },
+        {
+          "id": "wp_r00_classroom_auto_011",
+          "pixel": [
+            504,
+            987
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_091",
+          "clearance_m": 3.3231
+        },
+        {
+          "id": "wp_r00_classroom_auto_012",
+          "pixel": [
+            781,
+            1151
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_023",
+          "clearance_m": 0.4408
+        },
+        {
+          "id": "wp_r00_classroom_auto_013",
+          "pixel": [
+            438,
+            1062
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_053",
+          "clearance_m": 1.8337
+        },
+        {
+          "id": "wp_r00_classroom_auto_014",
+          "pixel": [
+            804,
+            1069
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_074",
+          "clearance_m": 1.8369
+        },
+        {
+          "id": "wp_r00_classroom_auto_015",
+          "pixel": [
+            798,
+            1018
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_056",
+          "clearance_m": 2.7224
+        },
+        {
+          "id": "wp_r00_classroom_auto_016",
+          "pixel": [
+            477,
+            1093
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_094",
+          "clearance_m": 1.4054
+        },
+        {
+          "id": "wp_r00_classroom_auto_017",
+          "pixel": [
+            596,
+            879
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.7882
+        },
+        {
+          "id": "wp_r00_classroom_auto_018",
+          "pixel": [
+            521,
+            747
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_049",
+          "clearance_m": 1.8623
+        },
+        {
+          "id": "wp_r00_classroom_auto_019",
+          "pixel": [
+            981,
+            1100
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_021",
+          "clearance_m": 0.3174
+        },
+        {
+          "id": "wp_r00_classroom_auto_020",
+          "pixel": [
+            722,
+            864
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 3.2505
+        },
+        {
+          "id": "wp_r00_classroom_auto_021",
+          "pixel": [
+            520,
+            905
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_051",
+          "clearance_m": 3.4382
+        },
+        {
+          "id": "wp_r00_classroom_auto_022",
+          "pixel": [
+            665,
+            852
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_097",
+          "clearance_m": 2.9986
+        },
+        {
+          "id": "wp_r00_classroom_auto_023",
+          "pixel": [
+            794,
+            775
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_078",
+          "clearance_m": 2.2534
+        },
+        {
+          "id": "wp_r00_classroom_auto_024",
+          "pixel": [
+            902,
+            1136
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_022",
+          "clearance_m": 0.67
+        },
+        {
+          "id": "wp_r00_classroom_auto_025",
+          "pixel": [
+            319,
+            1021
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_089",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_026",
+          "pixel": [
+            358,
+            957
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_088",
+          "clearance_m": 0.8604
+        },
+        {
+          "id": "wp_r00_classroom_auto_027",
+          "pixel": [
+            410,
+            825
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_081",
+          "clearance_m": 1.5357
+        },
+        {
+          "id": "wp_r00_classroom_auto_028",
+          "pixel": [
+            897,
+            1092
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_021",
+          "clearance_m": 0.9451
+        },
+        {
+          "id": "wp_r00_classroom_auto_029",
+          "pixel": [
+            969,
+            866
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_018",
+          "clearance_m": 0.6171
+        },
+        {
+          "id": "wp_r00_classroom_auto_030",
+          "pixel": [
+            487,
+            849
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_080",
+          "clearance_m": 2.8564
+        },
+        {
+          "id": "wp_r00_classroom_auto_031",
+          "pixel": [
+            681,
+            804
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 2.1341
+        },
+        {
+          "id": "wp_r00_classroom_auto_032",
+          "pixel": [
+            319,
+            717
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_085",
+          "clearance_m": 0.2843
+        },
+        {
+          "id": "wp_r00_classroom_auto_033",
+          "pixel": [
+            642,
+            655
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_084",
+          "clearance_m": 0.2543
+        },
+        {
+          "id": "wp_r00_classroom_auto_034",
+          "pixel": [
+            432,
+            966
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_052",
+          "clearance_m": 2.0467
+        },
+        {
+          "id": "wp_r00_classroom_auto_035",
+          "pixel": [
+            522,
+            1132
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_094",
+          "clearance_m": 0.7758
+        },
+        {
+          "id": "wp_r00_classroom_auto_036",
+          "pixel": [
+            332,
+            649
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_001",
+          "clearance_m": 0.2603
+        },
+        {
+          "id": "wp_r00_classroom_auto_037",
+          "pixel": [
+            650,
+            1095
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_054",
+          "clearance_m": 1.3929
+        },
+        {
+          "id": "wp_r00_classroom_auto_038",
+          "pixel": [
+            915,
+            1029
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_020",
+          "clearance_m": 1.5692
+        },
+        {
+          "id": "wp_r00_classroom_auto_039",
+          "pixel": [
+            595,
+            710
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_005",
+          "clearance_m": 1.4593
+        },
+        {
+          "id": "wp_r00_classroom_auto_040",
+          "pixel": [
+            785,
+            906
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_065",
+          "clearance_m": 3.8614
+        },
+        {
+          "id": "wp_r00_classroom_auto_041",
+          "pixel": [
+            559,
+            660
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_084",
+          "clearance_m": 0.4761
+        },
+        {
+          "id": "wp_r00_classroom_auto_042",
+          "pixel": [
+            626,
+            973
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_068",
+          "clearance_m": 3.544
+        },
+        {
+          "id": "wp_r00_classroom_auto_043",
+          "pixel": [
+            874,
+            934
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_095",
+          "clearance_m": 2.2922
+        },
+        {
+          "id": "wp_r00_classroom_auto_044",
+          "pixel": [
+            711,
+            768
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_041",
+          "clearance_m": 1.5573
+        },
+        {
+          "id": "wp_r00_classroom_auto_045",
+          "pixel": [
+            728,
+            635
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_012",
+          "clearance_m": 0.2788
+        },
+        {
+          "id": "wp_r00_classroom_auto_046",
+          "pixel": [
+            252,
+            1155
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_030",
+          "clearance_m": 0.2997
+        },
+        {
+          "id": "wp_r00_classroom_auto_047",
+          "pixel": [
+            844,
+            785
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_042",
+          "clearance_m": 2.8211
+        },
+        {
+          "id": "wp_r00_classroom_auto_048",
+          "pixel": [
+            429,
+            1107
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_028",
+          "clearance_m": 1.0403
+        },
+        {
+          "id": "wp_r00_classroom_auto_049",
+          "pixel": [
+            322,
+            817
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_086",
+          "clearance_m": 0.3084
+        },
+        {
+          "id": "wp_r00_classroom_auto_050",
+          "pixel": [
+            684,
+            953
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_067",
+          "clearance_m": 3.8967
+        },
+        {
+          "id": "wp_r00_classroom_auto_051",
+          "pixel": [
+            436,
+            868
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_035",
+          "clearance_m": 1.9749
+        },
+        {
+          "id": "wp_r00_classroom_auto_052",
+          "pixel": [
+            457,
+            652
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_082",
+          "clearance_m": 0.3242
+        },
+        {
+          "id": "wp_r00_classroom_auto_053",
+          "pixel": [
+            988,
+            671
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_015",
+          "clearance_m": 0.2821
+        },
+        {
+          "id": "wp_r00_classroom_auto_054",
+          "pixel": [
+            985,
+            779
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 0.335
+        },
+        {
+          "id": "wp_r00_classroom_auto_055",
+          "pixel": [
+            935,
+            783
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 1.2166
+        },
+        {
+          "id": "wp_r00_classroom_auto_056",
+          "pixel": [
+            810,
+            617
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_012",
+          "clearance_m": 0.2821
+        },
+        {
+          "id": "wp_r00_classroom_auto_057",
+          "pixel": [
+            418,
+            1025
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_032",
+          "clearance_m": 1.9355
+        },
+        {
+          "id": "wp_r00_classroom_auto_058",
+          "pixel": [
+            866,
+            671
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_009",
+          "clearance_m": 0.988
+        },
+        {
+          "id": "wp_r00_classroom_auto_059",
+          "pixel": [
+            746,
+            1121
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_074",
+          "clearance_m": 0.9698
+        },
+        {
+          "id": "wp_r00_classroom_auto_060",
+          "pixel": [
+            281,
+            1003
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_090",
+          "clearance_m": 0.2821
+        },
+        {
+          "id": "wp_r00_classroom_auto_061",
+          "pixel": [
+            985,
+            1058
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_020",
+          "clearance_m": 0.335
+        },
+        {
+          "id": "wp_r00_classroom_auto_062",
+          "pixel": [
+            600,
+            837
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_079",
+          "clearance_m": 3.0912
+        },
+        {
+          "id": "wp_r00_classroom_auto_063",
+          "pixel": [
+            322,
+            771
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_085",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_064",
+          "pixel": [
+            332,
+            1120
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_029",
+          "clearance_m": 0.2651
+        },
+        {
+          "id": "wp_r00_classroom_auto_065",
+          "pixel": [
+            989,
+            719
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_066",
+          "pixel": [
+            990,
+            1000
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_020",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_067",
+          "pixel": [
+            601,
+            1162
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_025",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_068",
+          "pixel": [
+            492,
+            1161
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_027",
+          "clearance_m": 0.2737
+        },
+        {
+          "id": "wp_r00_classroom_auto_069",
+          "pixel": [
+            989,
+            940
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_018",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_070",
+          "pixel": [
+            848,
+            988
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 2.7506
+        },
+        {
+          "id": "wp_r00_classroom_auto_071",
+          "pixel": [
+            738,
+            1161
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_024",
+          "clearance_m": 0.2603
+        },
+        {
+          "id": "wp_r00_classroom_auto_072",
+          "pixel": [
+            530,
+            956
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_092",
+          "clearance_m": 3.6669
+        },
+        {
+          "id": "wp_r00_classroom_auto_073",
+          "pixel": [
+            925,
+            990
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 1.3929
+        },
+        {
+          "id": "wp_r00_classroom_auto_074",
+          "pixel": [
+            773,
+            728
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_041",
+          "clearance_m": 1.384
+        },
+        {
+          "id": "wp_r00_classroom_auto_075",
+          "pixel": [
+            383,
+            1185
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_029",
+          "clearance_m": 0.2506
+        },
+        {
+          "id": "wp_r00_classroom_auto_076",
+          "pixel": [
+            669,
+            1159
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_024",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_077",
+          "pixel": [
+            849,
+            622
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_013",
+          "clearance_m": 0.3242
+        },
+        {
+          "id": "wp_r00_classroom_auto_078",
+          "pixel": [
+            558,
+            892
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_092",
+          "clearance_m": 4.1107
+        },
+        {
+          "id": "wp_r00_classroom_auto_079",
+          "pixel": [
+            794,
+            1108
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_074",
+          "clearance_m": 1.199
+        },
+        {
+          "id": "wp_r00_classroom_auto_080",
+          "pixel": [
+            767,
+            994
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_063",
+          "clearance_m": 3.209
+        },
+        {
+          "id": "wp_r00_classroom_auto_081",
+          "pixel": [
+            879,
+            1014
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 2.1813
+        },
+        {
+          "id": "wp_r00_classroom_auto_082",
+          "pixel": [
+            415,
+            756
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_037",
+          "clearance_m": 1.9072
+        },
+        {
+          "id": "wp_r00_classroom_auto_083",
+          "pixel": [
+            927,
+            950
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_095",
+          "clearance_m": 1.3577
+        },
+        {
+          "id": "wp_r00_classroom_auto_084",
+          "pixel": [
+            635,
+            1016
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_068",
+          "clearance_m": 2.7858
+        },
+        {
+          "id": "wp_r00_classroom_auto_085",
+          "pixel": [
+            334,
+            887
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_088",
+          "clearance_m": 0.2525
+        },
+        {
+          "id": "wp_r00_classroom_auto_086",
+          "pixel": [
+            563,
+            1035
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_093",
+          "clearance_m": 2.4861
+        },
+        {
+          "id": "wp_r00_classroom_auto_087",
+          "pixel": [
+            397,
+            684
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_001",
+          "clearance_m": 0.9646
+        },
+        {
+          "id": "wp_r00_classroom_auto_088",
+          "pixel": [
+            587,
+            791
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_047",
+          "clearance_m": 2.5073
+        },
+        {
+          "id": "wp_r00_classroom_auto_089",
+          "pixel": [
+            402,
+            1081
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_032",
+          "clearance_m": 1.4987
+        },
+        {
+          "id": "wp_r00_classroom_auto_090",
+          "pixel": [
+            728,
+            1074
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_055",
+          "clearance_m": 1.7632
+        },
+        {
+          "id": "wp_r00_classroom_auto_091",
+          "pixel": [
+            485,
+            738
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_002",
+          "clearance_m": 1.5708
+        },
+        {
+          "id": "wp_r00_classroom_auto_092",
+          "pixel": [
+            696,
+            1010
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_063",
+          "clearance_m": 2.8916
+        },
+        {
+          "id": "wp_r00_classroom_auto_093",
+          "pixel": [
+            935,
+            885
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_018",
+          "clearance_m": 1.2166
+        },
+        {
+          "id": "wp_r00_classroom_auto_094",
+          "pixel": [
+            919,
+            710
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_008",
+          "clearance_m": 1.24
+        },
+        {
+          "id": "wp_r00_classroom_auto_095",
+          "pixel": [
+            323,
+            1164
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_029",
+          "clearance_m": 0.2567
+        },
+        {
+          "id": "wp_r00_classroom_auto_096",
+          "pixel": [
+            845,
+            701
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_007",
+          "clearance_m": 1.5696
+        },
+        {
+          "id": "wp_r00_classroom_auto_097",
+          "pixel": [
+            378,
+            649
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_001",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_098",
+          "pixel": [
+            566,
+            856
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_050",
+          "clearance_m": 3.668
+        },
+        {
+          "id": "wp_r00_classroom_auto_099",
+          "pixel": [
+            898,
+            821
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_044",
+          "clearance_m": 1.869
+        },
+        {
+          "id": "wp_r00_classroom_auto_100",
+          "pixel": [
+            530,
+            783
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_049",
+          "clearance_m": 2.5149
+        },
+        {
+          "id": "wp_r00_classroom_auto_101",
+          "pixel": [
+            939,
+            1057
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_020",
+          "clearance_m": 1.0826
+        },
+        {
+          "id": "wp_r00_classroom_auto_102",
+          "pixel": [
+            350,
+            794
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_036",
+          "clearance_m": 0.8153
+        },
+        {
+          "id": "wp_r00_classroom_auto_103",
+          "pixel": [
+            595,
+            917
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_092",
+          "clearance_m": 4.4142
+        },
+        {
+          "id": "wp_r00_classroom_auto_104",
+          "pixel": [
+            677,
+            755
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_040",
+          "clearance_m": 1.2755
+        },
+        {
+          "id": "wp_r00_classroom_auto_105",
+          "pixel": [
+            326,
+            940
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_090",
+          "clearance_m": 0.2506
+        },
+        {
+          "id": "wp_r00_classroom_auto_106",
+          "pixel": [
+            395,
+            904
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_034",
+          "clearance_m": 1.2342
+        },
+        {
+          "id": "wp_r00_classroom_auto_107",
+          "pixel": [
+            535,
+            1005
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_093",
+          "clearance_m": 3.0151
+        },
+        {
+          "id": "wp_r00_classroom_auto_108",
+          "pixel": [
+            711,
+            898
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_067",
+          "clearance_m": 3.8144
+        },
+        {
+          "id": "wp_r00_classroom_auto_109",
+          "pixel": [
+            423,
+            791
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_081",
+          "clearance_m": 1.9644
+        },
+        {
+          "id": "wp_r00_classroom_auto_110",
+          "pixel": [
+            348,
+            1043
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_032",
+          "clearance_m": 0.7022
+        },
+        {
+          "id": "wp_r00_classroom_auto_111",
+          "pixel": [
+            800,
+            683
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_010",
+          "clearance_m": 1.2968
+        },
+        {
+          "id": "wp_r00_classroom_auto_112",
+          "pixel": [
+            392,
+            1139
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_028",
+          "clearance_m": 0.637
+        },
+        {
+          "id": "wp_r00_classroom_auto_113",
+          "pixel": [
+            456,
+            937
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_091",
+          "clearance_m": 2.3269
+        },
+        {
+          "id": "wp_r00_classroom_auto_114",
+          "pixel": [
+            613,
+            632
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_084",
+          "clearance_m": 0.2603
+        },
+        {
+          "id": "wp_r00_classroom_auto_115",
+          "pixel": [
+            840,
+            954
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_076",
+          "clearance_m": 2.8916
+        },
+        {
+          "id": "wp_r00_classroom_auto_116",
+          "pixel": [
+            547,
+            1069
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_094",
+          "clearance_m": 1.8866
+        },
+        {
+          "id": "wp_r00_classroom_auto_117",
+          "pixel": [
+            630,
+            855
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.1786
+        },
+        {
+          "id": "wp_r00_classroom_auto_118",
+          "pixel": [
+            747,
+            890
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_059",
+          "clearance_m": 3.8
+        },
+        {
+          "id": "wp_r00_classroom_auto_119",
+          "pixel": [
+            620,
+            1076
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_054",
+          "clearance_m": 1.7283
+        },
+        {
+          "id": "wp_r00_classroom_auto_120",
+          "pixel": [
+            671,
+            1123
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_024",
+          "clearance_m": 0.8992
+        },
+        {
+          "id": "wp_r00_classroom_auto_121",
+          "pixel": [
+            488,
+            1126
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_027",
+          "clearance_m": 0.8928
+        },
+        {
+          "id": "wp_r00_classroom_auto_122",
+          "pixel": [
+            850,
+            897
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_058",
+          "clearance_m": 2.7153
+        },
+        {
+          "id": "wp_r00_classroom_auto_123",
+          "pixel": [
+            990,
+            838
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_017",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_124",
+          "pixel": [
+            800,
+            849
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_059",
+          "clearance_m": 3.431
+        },
+        {
+          "id": "wp_r00_classroom_auto_125",
+          "pixel": [
+            498,
+            1021
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_093",
+          "clearance_m": 2.7221
+        },
+        {
+          "id": "wp_r00_classroom_auto_126",
+          "pixel": [
+            742,
+            960
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_067",
+          "clearance_m": 3.7782
+        },
+        {
+          "id": "wp_r00_classroom_auto_127",
+          "pixel": [
+            482,
+            675
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_002",
+          "clearance_m": 0.4588
+        },
+        {
+          "id": "wp_r00_classroom_auto_128",
+          "pixel": [
+            325,
+            987
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_089",
+          "clearance_m": 0.7776
+        },
+        {
+          "id": "wp_r00_classroom_auto_129",
+          "pixel": [
+            628,
+            739
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_005",
+          "clearance_m": 1.3405
+        },
+        {
+          "id": "wp_r00_classroom_auto_130",
+          "pixel": [
+            838,
+            1062
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_072",
+          "clearance_m": 1.8351
+        },
+        {
+          "id": "wp_r00_classroom_auto_131",
+          "pixel": [
+            436,
+            678
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_082",
+          "clearance_m": 0.9102
+        },
+        {
+          "id": "wp_r00_classroom_auto_132",
+          "pixel": [
+            538,
+            1162
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_026",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_133",
+          "pixel": [
+            523,
+            631
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_083",
+          "clearance_m": 0.2366
+        },
+        {
+          "id": "wp_r00_classroom_auto_134",
+          "pixel": [
+            780,
+            1046
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_055",
+          "clearance_m": 2.2922
+        },
+        {
+          "id": "wp_r00_classroom_auto_135",
+          "pixel": [
+            349,
+            1185
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_029",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_136",
+          "pixel": [
+            448,
+            734
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_038",
+          "clearance_m": 1.6014
+        },
+        {
+          "id": "wp_r00_classroom_auto_137",
+          "pixel": [
+            749,
+            837
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_059",
+          "clearance_m": 2.922
+        },
+        {
+          "id": "wp_r00_classroom_auto_138",
+          "pixel": [
+            733,
+            668
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_011",
+          "clearance_m": 0.2494
+        },
+        {
+          "id": "wp_r00_classroom_auto_139",
+          "pixel": [
+            501,
+            878
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_050",
+          "clearance_m": 3.1274
+        },
+        {
+          "id": "wp_r00_classroom_auto_140",
+          "pixel": [
+            930,
+            819
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_017",
+          "clearance_m": 1.3048
+        },
+        {
+          "id": "wp_r00_classroom_auto_141",
+          "pixel": [
+            450,
+            1032
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_053",
+          "clearance_m": 2.3643
+        },
+        {
+          "id": "wp_r00_classroom_auto_142",
+          "pixel": [
+            698,
+            694
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_006",
+          "clearance_m": 0.2456
+        },
+        {
+          "id": "wp_r00_classroom_auto_143",
+          "pixel": [
+            570,
+            732
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_048",
+          "clearance_m": 1.7499
+        },
+        {
+          "id": "wp_r00_classroom_auto_144",
+          "pixel": [
+            604,
+            948
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_066",
+          "clearance_m": 3.9974
+        },
+        {
+          "id": "wp_r00_classroom_auto_145",
+          "pixel": [
+            666,
+            1025
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_069",
+          "clearance_m": 2.6272
+        },
+        {
+          "id": "wp_r00_classroom_auto_146",
+          "pixel": [
+            652,
+            954
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_066",
+          "clearance_m": 3.879
+        },
+        {
+          "id": "wp_r00_classroom_auto_147",
+          "pixel": [
+            580,
+            636
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_084",
+          "clearance_m": 0.2506
+        },
+        {
+          "id": "wp_r00_classroom_auto_148",
+          "pixel": [
+            897,
+            682
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_008",
+          "clearance_m": 0.9635
+        },
+        {
+          "id": "wp_r00_classroom_auto_149",
+          "pixel": [
+            468,
+            874
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_051",
+          "clearance_m": 2.5484
+        },
+        {
+          "id": "wp_r00_classroom_auto_150",
+          "pixel": [
+            663,
+            688
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_005",
+          "clearance_m": 0.2506
+        },
+        {
+          "id": "wp_r00_classroom_auto_151",
+          "pixel": [
+            465,
+            968
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_052",
+          "clearance_m": 2.6039
+        },
+        {
+          "id": "wp_r00_classroom_auto_152",
+          "pixel": [
+            830,
+            839
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_045",
+          "clearance_m": 3.068
+        },
+        {
+          "id": "wp_r00_classroom_auto_153",
+          "pixel": [
+            886,
+            1163
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_022",
+          "clearance_m": 0.2506
+        },
+        {
+          "id": "wp_r00_classroom_auto_154",
+          "pixel": [
+            381,
+            811
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_086",
+          "clearance_m": 1.1461
+        },
+        {
+          "id": "wp_r00_classroom_auto_155",
+          "pixel": [
+            696,
+            844
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 2.8432
+        },
+        {
+          "id": "wp_r00_classroom_auto_156",
+          "pixel": [
+            857,
+            866
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_045",
+          "clearance_m": 2.5919
+        },
+        {
+          "id": "wp_r00_classroom_auto_157",
+          "pixel": [
+            351,
+            711
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_085",
+          "clearance_m": 0.6239
+        },
+        {
+          "id": "wp_r00_classroom_auto_158",
+          "pixel": [
+            888,
+            854
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_096",
+          "clearance_m": 2.0453
+        },
+        {
+          "id": "wp_r00_classroom_auto_159",
+          "pixel": [
+            990,
+            890
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_018",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_160",
+          "pixel": [
+            416,
+            993
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_033",
+          "clearance_m": 2.0296
+        },
+        {
+          "id": "wp_r00_classroom_auto_161",
+          "pixel": [
+            672,
+            1073
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_069",
+          "clearance_m": 1.7808
+        },
+        {
+          "id": "wp_r00_classroom_auto_162",
+          "pixel": [
+            482,
+            807
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_080",
+          "clearance_m": 2.7859
+        },
+        {
+          "id": "wp_r00_classroom_auto_163",
+          "pixel": [
+            731,
+            792
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 2.0687
+        },
+        {
+          "id": "wp_r00_classroom_auto_164",
+          "pixel": [
+            577,
+            685
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_004",
+          "clearance_m": 0.9495
+        },
+        {
+          "id": "wp_r00_classroom_auto_165",
+          "pixel": [
+            868,
+            804
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_044",
+          "clearance_m": 2.3979
+        },
+        {
+          "id": "wp_r00_classroom_auto_166",
+          "pixel": [
+            601,
+            991
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_062",
+          "clearance_m": 3.2478
+        },
+        {
+          "id": "wp_r00_classroom_auto_167",
+          "pixel": [
+            398,
+            625
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_082",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_168",
+          "pixel": [
+            957,
+            663
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_014",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_169",
+          "pixel": [
+            956,
+            938
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_018",
+          "clearance_m": 0.8463
+        },
+        {
+          "id": "wp_r00_classroom_auto_170",
+          "pixel": [
+            429,
+            623
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_082",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_171",
+          "pixel": [
+            457,
+            845
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_081",
+          "clearance_m": 2.3274
+        },
+        {
+          "id": "wp_r00_classroom_auto_172",
+          "pixel": [
+            257,
+            959
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_090",
+          "clearance_m": 0.1587
+        },
+        {
+          "id": "wp_r00_classroom_auto_173",
+          "pixel": [
+            717,
+            1034
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_055",
+          "clearance_m": 2.4685
+        },
+        {
+          "id": "wp_r00_classroom_auto_174",
+          "pixel": [
+            700,
+            980
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_063",
+          "clearance_m": 3.4206
+        },
+        {
+          "id": "wp_r00_classroom_auto_175",
+          "pixel": [
+            504,
+            1064
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_094",
+          "clearance_m": 1.9748
+        },
+        {
+          "id": "wp_r00_classroom_auto_176",
+          "pixel": [
+            798,
+            933
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_076",
+          "clearance_m": 3.6322
+        },
+        {
+          "id": "wp_r00_classroom_auto_177",
+          "pixel": [
+            910,
+            1065
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_021",
+          "clearance_m": 1.1297
+        },
+        {
+          "id": "wp_r00_classroom_auto_178",
+          "pixel": [
+            987,
+            749
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 0.2997
+        },
+        {
+          "id": "wp_r00_classroom_auto_179",
+          "pixel": [
+            459,
+            1117
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_027",
+          "clearance_m": 0.8985
+        },
+        {
+          "id": "wp_r00_classroom_auto_180",
+          "pixel": [
+            949,
+            844
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_017",
+          "clearance_m": 0.9698
+        },
+        {
+          "id": "wp_r00_classroom_auto_181",
+          "pixel": [
+            990,
+            970
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_019",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_182",
+          "pixel": [
+            613,
+            805
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_097",
+          "clearance_m": 2.4839
+        },
+        {
+          "id": "wp_r00_classroom_auto_183",
+          "pixel": [
+            678,
+            879
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.4575
+        },
+        {
+          "id": "wp_r00_classroom_auto_184",
+          "pixel": [
+            370,
+            887
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_088",
+          "clearance_m": 0.8259
+        },
+        {
+          "id": "wp_r00_classroom_auto_185",
+          "pixel": [
+            535,
+            834
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_050",
+          "clearance_m": 3.398
+        },
+        {
+          "id": "wp_r00_classroom_auto_186",
+          "pixel": [
+            778,
+            829
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_078",
+          "clearance_m": 2.9534
+        },
+        {
+          "id": "wp_r00_classroom_auto_187",
+          "pixel": [
+            799,
+            645
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_009",
+          "clearance_m": 0.6483
+        },
+        {
+          "id": "wp_r00_classroom_auto_188",
+          "pixel": [
+            389,
+            968
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_033",
+          "clearance_m": 1.4
+        },
+        {
+          "id": "wp_r00_classroom_auto_189",
+          "pixel": [
+            796,
+            878
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_077",
+          "clearance_m": 3.6674
+        },
+        {
+          "id": "wp_r00_classroom_auto_190",
+          "pixel": [
+            615,
+            1047
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_054",
+          "clearance_m": 2.2427
+        },
+        {
+          "id": "wp_r00_classroom_auto_191",
+          "pixel": [
+            373,
+            1076
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_032",
+          "clearance_m": 0.9874
+        },
+        {
+          "id": "wp_r00_classroom_auto_192",
+          "pixel": [
+            823,
+            1004
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_056",
+          "clearance_m": 2.876
+        },
+        {
+          "id": "wp_r00_classroom_auto_193",
+          "pixel": [
+            987,
+            1029
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_020",
+          "clearance_m": 0.2997
+        },
+        {
+          "id": "wp_r00_classroom_auto_194",
+          "pixel": [
+            731,
+            744
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_006",
+          "clearance_m": 1.2667
+        },
+        {
+          "id": "wp_r00_classroom_auto_195",
+          "pixel": [
+            594,
+            1134
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_026",
+          "clearance_m": 0.7405
+        },
+        {
+          "id": "wp_r00_classroom_auto_196",
+          "pixel": [
+            700,
+            737
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_006",
+          "clearance_m": 0.9793
+        },
+        {
+          "id": "wp_r00_classroom_auto_197",
+          "pixel": [
+            797,
+            746
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_042",
+          "clearance_m": 1.9079
+        },
+        {
+          "id": "wp_r00_classroom_auto_198",
+          "pixel": [
+            990,
+            808
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_017",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_199",
+          "pixel": [
+            814,
+            1042
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_056",
+          "clearance_m": 2.2414
+        },
+        {
+          "id": "wp_r00_classroom_auto_200",
+          "pixel": [
+            926,
+            1120
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_021",
+          "clearance_m": 0.2567
+        },
+        {
+          "id": "wp_r00_classroom_auto_201",
+          "pixel": [
+            962,
+            1076
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_021",
+          "clearance_m": 0.7405
+        },
+        {
+          "id": "wp_r00_classroom_auto_202",
+          "pixel": [
+            719,
+            1112
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_073",
+          "clearance_m": 1.0932
+        },
+        {
+          "id": "wp_r00_classroom_auto_203",
+          "pixel": [
+            953,
+            997
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_019",
+          "clearance_m": 0.8992
+        },
+        {
+          "id": "wp_r00_classroom_auto_204",
+          "pixel": [
+            411,
+            1054
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_032",
+          "clearance_m": 1.6757
+        },
+        {
+          "id": "wp_r00_classroom_auto_205",
+          "pixel": [
+            502,
+            787
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_039",
+          "clearance_m": 2.4612
+        },
+        {
+          "id": "wp_r00_classroom_auto_206",
+          "pixel": [
+            379,
+            706
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_037",
+          "clearance_m": 1.0093
+        },
+        {
+          "id": "wp_r00_classroom_auto_207",
+          "pixel": [
+            820,
+            1097
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_072",
+          "clearance_m": 1.2769
+        },
+        {
+          "id": "wp_r00_classroom_auto_208",
+          "pixel": [
+            898,
+            950
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 1.869
+        },
+        {
+          "id": "wp_r00_classroom_auto_209",
+          "pixel": [
+            626,
+            679
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_084",
+          "clearance_m": 0.7629
+        },
+        {
+          "id": "wp_r00_classroom_auto_210",
+          "pixel": [
+            747,
+            1014
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_055",
+          "clearance_m": 2.8352
+        },
+        {
+          "id": "wp_r00_classroom_auto_211",
+          "pixel": [
+            312,
+            744
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_085",
+          "clearance_m": 0.2603
+        },
+        {
+          "id": "wp_r00_classroom_auto_212",
+          "pixel": [
+            514,
+            932
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_091",
+          "clearance_m": 3.3381
+        },
+        {
+          "id": "wp_r00_classroom_auto_213",
+          "pixel": [
+            873,
+            1106
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_072",
+          "clearance_m": 1.0603
+        },
+        {
+          "id": "wp_r00_classroom_auto_214",
+          "pixel": [
+            558,
+            791
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_049",
+          "clearance_m": 2.7858
+        },
+        {
+          "id": "wp_r00_classroom_auto_215",
+          "pixel": [
+            373,
+            1023
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_089",
+          "clearance_m": 1.1702
+        },
+        {
+          "id": "wp_r00_classroom_auto_216",
+          "pixel": [
+            945,
+            722
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 1.0403
+        },
+        {
+          "id": "wp_r00_classroom_auto_217",
+          "pixel": [
+            912,
+            643
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_013",
+          "clearance_m": 0.2754
+        },
+        {
+          "id": "wp_r00_classroom_auto_218",
+          "pixel": [
+            656,
+            737
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_040",
+          "clearance_m": 1.0725
+        },
+        {
+          "id": "wp_r00_classroom_auto_219",
+          "pixel": [
+            838,
+            812
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_078",
+          "clearance_m": 2.9269
+        },
+        {
+          "id": "wp_r00_classroom_auto_220",
+          "pixel": [
+            808,
+            1162
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_023",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_221",
+          "pixel": [
+            538,
+            680
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_083",
+          "clearance_m": 0.8317
+        },
+        {
+          "id": "wp_r00_classroom_auto_222",
+          "pixel": [
+            654,
+            796
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_097",
+          "clearance_m": 2.0614
+        },
+        {
+          "id": "wp_r00_classroom_auto_223",
+          "pixel": [
+            402,
+            1112
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_031",
+          "clearance_m": 0.9836
+        },
+        {
+          "id": "wp_r00_classroom_auto_224",
+          "pixel": [
+            868,
+            770
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_043",
+          "clearance_m": 2.3979
+        },
+        {
+          "id": "wp_r00_classroom_auto_225",
+          "pixel": [
+            417,
+            888
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_035",
+          "clearance_m": 1.6359
+        },
+        {
+          "id": "wp_r00_classroom_auto_226",
+          "pixel": [
+            543,
+            731
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_004",
+          "clearance_m": 1.7279
+        },
+        {
+          "id": "wp_r00_classroom_auto_227",
+          "pixel": [
+            428,
+            939
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_034",
+          "clearance_m": 1.8436
+        },
+        {
+          "id": "wp_r00_classroom_auto_228",
+          "pixel": [
+            908,
+            877
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_058",
+          "clearance_m": 1.6927
+        },
+        {
+          "id": "wp_r00_classroom_auto_229",
+          "pixel": [
+            387,
+            840
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_086",
+          "clearance_m": 1.0955
+        },
+        {
+          "id": "wp_r00_classroom_auto_230",
+          "pixel": [
+            749,
+            716
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_011",
+          "clearance_m": 0.9451
+        },
+        {
+          "id": "wp_r00_classroom_auto_231",
+          "pixel": [
+            694,
+            928
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_067",
+          "clearance_m": 4.3216
+        },
+        {
+          "id": "wp_r00_classroom_auto_232",
+          "pixel": [
+            545,
+            979
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_062",
+          "clearance_m": 3.4735
+        },
+        {
+          "id": "wp_r00_classroom_auto_233",
+          "pixel": [
+            864,
+            644
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_013",
+          "clearance_m": 0.5162
+        },
+        {
+          "id": "wp_r00_classroom_auto_234",
+          "pixel": [
+            812,
+            899
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_076",
+          "clearance_m": 3.3853
+        },
+        {
+          "id": "wp_r00_classroom_auto_235",
+          "pixel": [
+            961,
+            790
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_017",
+          "clearance_m": 0.7582
+        },
+        {
+          "id": "wp_r00_classroom_auto_236",
+          "pixel": [
+            452,
+            896
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_051",
+          "clearance_m": 2.2404
+        },
+        {
+          "id": "wp_r00_classroom_auto_237",
+          "pixel": [
+            665,
+            825
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_097",
+          "clearance_m": 2.526
+        },
+        {
+          "id": "wp_r00_classroom_auto_238",
+          "pixel": [
+            817,
+            790
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_078",
+          "clearance_m": 2.7138
+        },
+        {
+          "id": "wp_r00_classroom_auto_239",
+          "pixel": [
+            359,
+            768
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_036",
+          "clearance_m": 0.9169
+        },
+        {
+          "id": "wp_r00_classroom_auto_240",
+          "pixel": [
+            938,
+            919
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_095",
+          "clearance_m": 1.1637
+        },
+        {
+          "id": "wp_r00_classroom_auto_241",
+          "pixel": [
+            784,
+            704
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_011",
+          "clearance_m": 1.2853
+        },
+        {
+          "id": "wp_r00_classroom_auto_242",
+          "pixel": [
+            865,
+            962
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 2.4508
+        },
+        {
+          "id": "wp_r00_classroom_auto_243",
+          "pixel": [
+            844,
+            727
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_042",
+          "clearance_m": 2.0196
+        },
+        {
+          "id": "wp_r00_classroom_auto_244",
+          "pixel": [
+            872,
+            1079
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_072",
+          "clearance_m": 1.4377
+        },
+        {
+          "id": "wp_r00_classroom_auto_245",
+          "pixel": [
+            716,
+            959
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_067",
+          "clearance_m": 3.7909
+        },
+        {
+          "id": "wp_r00_classroom_auto_246",
+          "pixel": [
+            499,
+            761
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_039",
+          "clearance_m": 2.0001
+        },
+        {
+          "id": "wp_r00_classroom_auto_247",
+          "pixel": [
+            772,
+            1122
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_074",
+          "clearance_m": 0.9521
+        },
+        {
+          "id": "wp_r00_classroom_auto_248",
+          "pixel": [
+            430,
+            842
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_081",
+          "clearance_m": 1.8517
+        },
+        {
+          "id": "wp_r00_classroom_auto_249",
+          "pixel": [
+            629,
+            1111
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_025",
+          "clearance_m": 1.1108
+        },
+        {
+          "id": "wp_r00_classroom_auto_250",
+          "pixel": [
+            888,
+            657
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_013",
+          "clearance_m": 0.7424
+        },
+        {
+          "id": "wp_r00_classroom_auto_251",
+          "pixel": [
+            785,
+            801
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_078",
+          "clearance_m": 2.5556
+        },
+        {
+          "id": "wp_r00_classroom_auto_252",
+          "pixel": [
+            902,
+            1002
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 1.7985
+        },
+        {
+          "id": "wp_r00_classroom_auto_253",
+          "pixel": [
+            538,
+            808
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_079",
+          "clearance_m": 2.9778
+        },
+        {
+          "id": "wp_r00_classroom_auto_254",
+          "pixel": [
+            656,
+            928
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_066",
+          "clearance_m": 4.3375
+        },
+        {
+          "id": "wp_r00_classroom_auto_255",
+          "pixel": [
+            843,
+            1152
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_023",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_256",
+          "pixel": [
+            886,
+            911
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_058",
+          "clearance_m": 2.0806
+        },
+        {
+          "id": "wp_r00_classroom_auto_257",
+          "pixel": [
+            277,
+            1163
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_030",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_258",
+          "pixel": [
+            409,
+            730
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_037",
+          "clearance_m": 1.6639
+        },
+        {
+          "id": "wp_r00_classroom_auto_259",
+          "pixel": [
+            705,
+            794
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 1.9827
+        },
+        {
+          "id": "wp_r00_classroom_auto_260",
+          "pixel": [
+            463,
+            1071
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_053",
+          "clearance_m": 1.7048
+        },
+        {
+          "id": "wp_r00_classroom_auto_261",
+          "pixel": [
+            837,
+            1117
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_072",
+          "clearance_m": 0.8685
+        },
+        {
+          "id": "wp_r00_classroom_auto_262",
+          "pixel": [
+            750,
+            648
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_010",
+          "clearance_m": 0.5604
+        },
+        {
+          "id": "wp_r00_classroom_auto_263",
+          "pixel": [
+            914,
+            799
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_044",
+          "clearance_m": 1.5869
+        },
+        {
+          "id": "wp_r00_classroom_auto_264",
+          "pixel": [
+            399,
+            1164
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_028",
+          "clearance_m": 0.2525
+        },
+        {
+          "id": "wp_r00_classroom_auto_265",
+          "pixel": [
+            357,
+            1127
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_031",
+          "clearance_m": 0.7192
+        },
+        {
+          "id": "wp_r00_classroom_auto_266",
+          "pixel": [
+            772,
+            1020
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_055",
+          "clearance_m": 2.7506
+        },
+        {
+          "id": "wp_r00_classroom_auto_267",
+          "pixel": [
+            512,
+            845
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_050",
+          "clearance_m": 3.2972
+        },
+        {
+          "id": "wp_r00_classroom_auto_268",
+          "pixel": [
+            979,
+            695
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_015",
+          "clearance_m": 0.4408
+        },
+        {
+          "id": "wp_r00_classroom_auto_269",
+          "pixel": [
+            851,
+            924
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_076",
+          "clearance_m": 2.6977
+        },
+        {
+          "id": "wp_r00_classroom_auto_270",
+          "pixel": [
+            538,
+            923
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_092",
+          "clearance_m": 3.7558
+        },
+        {
+          "id": "wp_r00_classroom_auto_271",
+          "pixel": [
+            732,
+            694
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_006",
+          "clearance_m": 0.455
+        },
+        {
+          "id": "wp_r00_classroom_auto_272",
+          "pixel": [
+            826,
+            684
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_009",
+          "clearance_m": 1.4243
+        },
+        {
+          "id": "wp_r00_classroom_auto_273",
+          "pixel": [
+            613,
+            898
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.9922
+        },
+        {
+          "id": "wp_r00_classroom_auto_274",
+          "pixel": [
+            742,
+            1096
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_074",
+          "clearance_m": 1.3889
+        },
+        {
+          "id": "wp_r00_classroom_auto_275",
+          "pixel": [
+            374,
+            936
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_088",
+          "clearance_m": 0.9035
+        },
+        {
+          "id": "wp_r00_classroom_auto_276",
+          "pixel": [
+            472,
+            1020
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_052",
+          "clearance_m": 2.6179
+        },
+        {
+          "id": "wp_r00_classroom_auto_277",
+          "pixel": [
+            703,
+            1068
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_069",
+          "clearance_m": 1.869
+        },
+        {
+          "id": "wp_r00_classroom_auto_278",
+          "pixel": [
+            935,
+            1014
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_020",
+          "clearance_m": 1.2166
+        },
+        {
+          "id": "wp_r00_classroom_auto_279",
+          "pixel": [
+            934,
+            756
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 1.2342
+        },
+        {
+          "id": "wp_r00_classroom_auto_280",
+          "pixel": [
+            684,
+            779
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_040",
+          "clearance_m": 1.6927
+        },
+        {
+          "id": "wp_r00_classroom_auto_281",
+          "pixel": [
+            989,
+            915
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_018",
+          "clearance_m": 0.2645
+        },
+        {
+          "id": "wp_r00_classroom_auto_282",
+          "pixel": [
+            792,
+            993
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_075",
+          "clearance_m": 3.1752
+        },
+        {
+          "id": "wp_r00_classroom_auto_283",
+          "pixel": [
+            728,
+            1138
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_024",
+          "clearance_m": 0.6347
+        },
+        {
+          "id": "wp_r00_classroom_auto_284",
+          "pixel": [
+            334,
+            964
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_090",
+          "clearance_m": 0.6234
+        },
+        {
+          "id": "wp_r00_classroom_auto_285",
+          "pixel": [
+            773,
+            929
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_064",
+          "clearance_m": 4.073
+        },
+        {
+          "id": "wp_r00_classroom_auto_286",
+          "pixel": [
+            576,
+            1162
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_026",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_287",
+          "pixel": [
+            770,
+            781
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_041",
+          "clearance_m": 2.1212
+        },
+        {
+          "id": "wp_r00_classroom_auto_288",
+          "pixel": [
+            580,
+            1095
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_071",
+          "clearance_m": 1.4282
+        },
+        {
+          "id": "wp_r00_classroom_auto_289",
+          "pixel": [
+            499,
+            1104
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_094",
+          "clearance_m": 1.2695
+        },
+        {
+          "id": "wp_r00_classroom_auto_290",
+          "pixel": [
+            587,
+            1045
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_070",
+          "clearance_m": 2.3098
+        },
+        {
+          "id": "wp_r00_classroom_auto_291",
+          "pixel": [
+            644,
+            1160
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_025",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_292",
+          "pixel": [
+            457,
+            791
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_038",
+          "clearance_m": 2.508
+        },
+        {
+          "id": "wp_r00_classroom_auto_293",
+          "pixel": [
+            713,
+            1160
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_024",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_294",
+          "pixel": [
+            913,
+            772
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_044",
+          "clearance_m": 1.6045
+        },
+        {
+          "id": "wp_r00_classroom_auto_295",
+          "pixel": [
+            350,
+            1103
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_031",
+          "clearance_m": 0.5819
+        },
+        {
+          "id": "wp_r00_classroom_auto_296",
+          "pixel": [
+            816,
+            950
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_075",
+          "clearance_m": 3.3148
+        },
+        {
+          "id": "wp_r00_classroom_auto_297",
+          "pixel": [
+            317,
+            1140
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_030",
+          "clearance_m": 0.2621
+        },
+        {
+          "id": "wp_r00_classroom_auto_298",
+          "pixel": [
+            890,
+            733
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_008",
+          "clearance_m": 1.8204
+        },
+        {
+          "id": "wp_r00_classroom_auto_299",
+          "pixel": [
+            355,
+            657
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_001",
+          "clearance_m": 0.3526
+        },
+        {
+          "id": "wp_r00_classroom_auto_300",
+          "pixel": [
+            536,
+            652
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_083",
+          "clearance_m": 0.3513
+        },
+        {
+          "id": "wp_r00_classroom_auto_301",
+          "pixel": [
+            533,
+            1110
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_094",
+          "clearance_m": 1.1637
+        },
+        {
+          "id": "wp_r00_classroom_auto_302",
+          "pixel": [
+            587,
+            816
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_079",
+          "clearance_m": 2.8728
+        },
+        {
+          "id": "wp_r00_classroom_auto_303",
+          "pixel": [
+            305,
+            1001
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_090",
+          "clearance_m": 0.4116
+        },
+        {
+          "id": "wp_r00_classroom_auto_304",
+          "pixel": [
+            828,
+            633
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_009",
+          "clearance_m": 0.529
+        },
+        {
+          "id": "wp_r00_classroom_auto_305",
+          "pixel": [
+            963,
+            1049
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_020",
+          "clearance_m": 0.7229
+        },
+        {
+          "id": "wp_r00_classroom_auto_306",
+          "pixel": [
+            911,
+            970
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 1.6398
+        },
+        {
+          "id": "wp_r00_classroom_auto_307",
+          "pixel": [
+            774,
+            752
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_041",
+          "clearance_m": 1.7176
+        },
+        {
+          "id": "wp_r00_classroom_auto_308",
+          "pixel": [
+            890,
+            760
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_044",
+          "clearance_m": 2.01
+        },
+        {
+          "id": "wp_r00_classroom_auto_309",
+          "pixel": [
+            367,
+            980
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_089",
+          "clearance_m": 1.2449
+        },
+        {
+          "id": "wp_r00_classroom_auto_310",
+          "pixel": [
+            654,
+            873
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.3916
+        },
+        {
+          "id": "wp_r00_classroom_auto_311",
+          "pixel": [
+            604,
+            732
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_048",
+          "clearance_m": 1.5376
+        },
+        {
+          "id": "wp_r00_classroom_auto_312",
+          "pixel": [
+            481,
+            993
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_052",
+          "clearance_m": 3.0294
+        },
+        {
+          "id": "wp_r00_classroom_auto_313",
+          "pixel": [
+            554,
+            957
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_061",
+          "clearance_m": 3.8614
+        },
+        {
+          "id": "wp_r00_classroom_auto_314",
+          "pixel": [
+            491,
+            715
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_003",
+          "clearance_m": 1.177
+        },
+        {
+          "id": "wp_r00_classroom_auto_315",
+          "pixel": [
+            846,
+            760
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_042",
+          "clearance_m": 2.5859
+        },
+        {
+          "id": "wp_r00_classroom_auto_316",
+          "pixel": [
+            435,
+            1008
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_052",
+          "clearance_m": 2.29
+        },
+        {
+          "id": "wp_r00_classroom_auto_317",
+          "pixel": [
+            797,
+            1132
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_023",
+          "clearance_m": 0.7758
+        },
+        {
+          "id": "wp_r00_classroom_auto_318",
+          "pixel": [
+            279,
+            978
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_090",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_319",
+          "pixel": [
+            638,
+            993
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_068",
+          "clearance_m": 3.1914
+        },
+        {
+          "id": "wp_r00_classroom_auto_320",
+          "pixel": [
+            761,
+            1060
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_074",
+          "clearance_m": 2.0453
+        },
+        {
+          "id": "wp_r00_classroom_auto_321",
+          "pixel": [
+            508,
+            964
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_091",
+          "clearance_m": 3.3145
+        },
+        {
+          "id": "wp_r00_classroom_auto_322",
+          "pixel": [
+            474,
+            829
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_081",
+          "clearance_m": 2.6404
+        },
+        {
+          "id": "wp_r00_classroom_auto_323",
+          "pixel": [
+            604,
+            688
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_084",
+          "clearance_m": 1.1346
+        },
+        {
+          "id": "wp_r00_classroom_auto_324",
+          "pixel": [
+            581,
+            898
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_092",
+          "clearance_m": 4.2034
+        },
+        {
+          "id": "wp_r00_classroom_auto_325",
+          "pixel": [
+            863,
+            1032
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_056",
+          "clearance_m": 2.1074
+        },
+        {
+          "id": "wp_r00_classroom_auto_326",
+          "pixel": [
+            438,
+            1129
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_028",
+          "clearance_m": 0.6524
+        },
+        {
+          "id": "wp_r00_classroom_auto_327",
+          "pixel": [
+            399,
+            796
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_036",
+          "clearance_m": 1.5552
+        },
+        {
+          "id": "wp_r00_classroom_auto_328",
+          "pixel": [
+            339,
+            846
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_086",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_329",
+          "pixel": [
+            459,
+            682
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_002",
+          "clearance_m": 0.6897
+        },
+        {
+          "id": "wp_r00_classroom_auto_330",
+          "pixel": [
+            746,
+            860
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_059",
+          "clearance_m": 3.2897
+        },
+        {
+          "id": "wp_r00_classroom_auto_331",
+          "pixel": [
+            732,
+            908
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_065",
+          "clearance_m": 4.0458
+        },
+        {
+          "id": "wp_r00_classroom_auto_332",
+          "pixel": [
+            771,
+            887
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_059",
+          "clearance_m": 3.881
+        },
+        {
+          "id": "wp_r00_classroom_auto_333",
+          "pixel": [
+            535,
+            887
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_050",
+          "clearance_m": 3.7098
+        },
+        {
+          "id": "wp_r00_classroom_auto_334",
+          "pixel": [
+            493,
+            922
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_051",
+          "clearance_m": 2.9622
+        },
+        {
+          "id": "wp_r00_classroom_auto_335",
+          "pixel": [
+            673,
+            1097
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_073",
+          "clearance_m": 1.3577
+        },
+        {
+          "id": "wp_r00_classroom_auto_336",
+          "pixel": [
+            856,
+            1010
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_056",
+          "clearance_m": 2.4788
+        },
+        {
+          "id": "wp_r00_classroom_auto_337",
+          "pixel": [
+            343,
+            1020
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_089",
+          "clearance_m": 0.6588
+        },
+        {
+          "id": "wp_r00_classroom_auto_338",
+          "pixel": [
+            469,
+            1164
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_027",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_339",
+          "pixel": [
+            391,
+            757
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_036",
+          "clearance_m": 1.4837
+        },
+        {
+          "id": "wp_r00_classroom_auto_340",
+          "pixel": [
+            402,
+            707
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_037",
+          "clearance_m": 1.3645
+        },
+        {
+          "id": "wp_r00_classroom_auto_341",
+          "pixel": [
+            787,
+            1086
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_074",
+          "clearance_m": 1.5869
+        },
+        {
+          "id": "wp_r00_classroom_auto_342",
+          "pixel": [
+            575,
+            1015
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_062",
+          "clearance_m": 2.8387
+        },
+        {
+          "id": "wp_r00_classroom_auto_343",
+          "pixel": [
+            408,
+            849
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_035",
+          "clearance_m": 1.4635
+        },
+        {
+          "id": "wp_r00_classroom_auto_344",
+          "pixel": [
+            584,
+            937
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_092",
+          "clearance_m": 4.214
+        },
+        {
+          "id": "wp_r00_classroom_auto_345",
+          "pixel": [
+            958,
+            886
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_018",
+          "clearance_m": 0.8111
+        },
+        {
+          "id": "wp_r00_classroom_auto_346",
+          "pixel": [
+            395,
+            1029
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_032",
+          "clearance_m": 1.5376
+        },
+        {
+          "id": "wp_r00_classroom_auto_347",
+          "pixel": [
+            339,
+            691
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_001",
+          "clearance_m": 0.2567
+        },
+        {
+          "id": "wp_r00_classroom_auto_348",
+          "pixel": [
+            300,
+            1164
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_030",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_349",
+          "pixel": [
+            577,
+            1119
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_071",
+          "clearance_m": 1.005
+        },
+        {
+          "id": "wp_r00_classroom_auto_350",
+          "pixel": [
+            753,
+            739
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_041",
+          "clearance_m": 1.3256
+        },
+        {
+          "id": "wp_r00_classroom_auto_351",
+          "pixel": [
+            931,
+            690
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_015",
+          "clearance_m": 0.8289
+        },
+        {
+          "id": "wp_r00_classroom_auto_352",
+          "pixel": [
+            619,
+            876
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.5908
+        },
+        {
+          "id": "wp_r00_classroom_auto_353",
+          "pixel": [
+            632,
+            791
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_047",
+          "clearance_m": 2.1135
+        },
+        {
+          "id": "wp_r00_classroom_auto_354",
+          "pixel": [
+            345,
+            818
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_086",
+          "clearance_m": 0.5741
+        },
+        {
+          "id": "wp_r00_classroom_auto_355",
+          "pixel": [
+            348,
+            935
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_088",
+          "clearance_m": 0.4748
+        },
+        {
+          "id": "wp_r00_classroom_auto_356",
+          "pixel": [
+            880,
+            1141
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_022",
+          "clearance_m": 0.4816
+        },
+        {
+          "id": "wp_r00_classroom_auto_357",
+          "pixel": [
+            693,
+            1117
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_024",
+          "clearance_m": 1.005
+        },
+        {
+          "id": "wp_r00_classroom_auto_358",
+          "pixel": [
+            967,
+            726
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 0.6524
+        },
+        {
+          "id": "wp_r00_classroom_auto_359",
+          "pixel": [
+            871,
+            992
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_057",
+          "clearance_m": 2.345
+        },
+        {
+          "id": "wp_r00_classroom_auto_360",
+          "pixel": [
+            510,
+            727
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_003",
+          "clearance_m": 1.4673
+        },
+        {
+          "id": "wp_r00_classroom_auto_361",
+          "pixel": [
+            937,
+            971
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_019",
+          "clearance_m": 1.1813
+        },
+        {
+          "id": "wp_r00_classroom_auto_362",
+          "pixel": [
+            762,
+            972
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_064",
+          "clearance_m": 3.5969
+        },
+        {
+          "id": "wp_r00_classroom_auto_363",
+          "pixel": [
+            669,
+            970
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_068",
+          "clearance_m": 3.5969
+        },
+        {
+          "id": "wp_r00_classroom_auto_364",
+          "pixel": [
+            816,
+            767
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_042",
+          "clearance_m": 2.4063
+        },
+        {
+          "id": "wp_r00_classroom_auto_365",
+          "pixel": [
+            894,
+            1115
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_022",
+          "clearance_m": 0.8264
+        },
+        {
+          "id": "wp_r00_classroom_auto_366",
+          "pixel": [
+            445,
+            700
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_002",
+          "clearance_m": 1.0906
+        },
+        {
+          "id": "wp_r00_classroom_auto_367",
+          "pixel": [
+            577,
+            836
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_079",
+          "clearance_m": 3.2658
+        },
+        {
+          "id": "wp_r00_classroom_auto_368",
+          "pixel": [
+            696,
+            821
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 2.4384
+        },
+        {
+          "id": "wp_r00_classroom_auto_369",
+          "pixel": [
+            953,
+            769
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 0.8992
+        },
+        {
+          "id": "wp_r00_classroom_auto_370",
+          "pixel": [
+            762,
+            908
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_065",
+          "clearance_m": 4.1818
+        },
+        {
+          "id": "wp_r00_classroom_auto_371",
+          "pixel": [
+            614,
+            1144
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_025",
+          "clearance_m": 0.5474
+        },
+        {
+          "id": "wp_r00_classroom_auto_372",
+          "pixel": [
+            653,
+            906
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_060",
+          "clearance_m": 3.9697
+        },
+        {
+          "id": "wp_r00_classroom_auto_373",
+          "pixel": [
+            487,
+            971
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_091",
+          "clearance_m": 2.9893
+        },
+        {
+          "id": "wp_r00_classroom_auto_374",
+          "pixel": [
+            628,
+            951
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_066",
+          "clearance_m": 3.9319
+        },
+        {
+          "id": "wp_r00_classroom_auto_375",
+          "pixel": [
+            622,
+            834
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_097",
+          "clearance_m": 2.8781
+        },
+        {
+          "id": "wp_r00_classroom_auto_376",
+          "pixel": [
+            691,
+            1156
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_024",
+          "clearance_m": 0.3174
+        },
+        {
+          "id": "wp_r00_classroom_auto_377",
+          "pixel": [
+            436,
+            644
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_082",
+          "clearance_m": 0.4101
+        },
+        {
+          "id": "wp_r00_classroom_auto_378",
+          "pixel": [
+            410,
+            961
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_034",
+          "clearance_m": 1.6564
+        },
+        {
+          "id": "wp_r00_classroom_auto_379",
+          "pixel": [
+            918,
+            1086
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_021",
+          "clearance_m": 0.7497
+        },
+        {
+          "id": "wp_r00_classroom_auto_380",
+          "pixel": [
+            429,
+            813
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_081",
+          "clearance_m": 1.9135
+        },
+        {
+          "id": "wp_r00_classroom_auto_381",
+          "pixel": [
+            465,
+            748
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_038",
+          "clearance_m": 1.7655
+        },
+        {
+          "id": "wp_r00_classroom_auto_382",
+          "pixel": [
+            620,
+            653
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_084",
+          "clearance_m": 0.5371
+        },
+        {
+          "id": "wp_r00_classroom_auto_383",
+          "pixel": [
+            657,
+            1140
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_025",
+          "clearance_m": 0.5995
+        },
+        {
+          "id": "wp_r00_classroom_auto_384",
+          "pixel": [
+            339,
+            1141
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_029",
+          "clearance_m": 0.5486
+        },
+        {
+          "id": "wp_r00_classroom_auto_385",
+          "pixel": [
+            332,
+            735
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_085",
+          "clearance_m": 0.5743
+        },
+        {
+          "id": "wp_r00_classroom_auto_386",
+          "pixel": [
+            844,
+            671
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_009",
+          "clearance_m": 1.0742
+        },
+        {
+          "id": "wp_r00_classroom_auto_387",
+          "pixel": [
+            868,
+            693
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_008",
+          "clearance_m": 1.3753
+        },
+        {
+          "id": "wp_r00_classroom_auto_388",
+          "pixel": [
+            503,
+            684
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_003",
+          "clearance_m": 0.7099
+        },
+        {
+          "id": "wp_r00_classroom_auto_389",
+          "pixel": [
+            544,
+            1129
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_026",
+          "clearance_m": 0.8287
+        },
+        {
+          "id": "wp_r00_classroom_auto_390",
+          "pixel": [
+            416,
+            1129
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_028",
+          "clearance_m": 0.6524
+        },
+        {
+          "id": "wp_r00_classroom_auto_391",
+          "pixel": [
+            538,
+            762
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_049",
+          "clearance_m": 2.208
+        },
+        {
+          "id": "wp_r00_classroom_auto_392",
+          "pixel": [
+            526,
+            1062
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_093",
+          "clearance_m": 2.01
+        },
+        {
+          "id": "wp_r00_classroom_auto_393",
+          "pixel": [
+            728,
+            843
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 2.9123
+        },
+        {
+          "id": "wp_r00_classroom_auto_394",
+          "pixel": [
+            410,
+            921
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_034",
+          "clearance_m": 1.4987
+        },
+        {
+          "id": "wp_r00_classroom_auto_395",
+          "pixel": [
+            719,
+            1012
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_063",
+          "clearance_m": 2.8564
+        },
+        {
+          "id": "wp_r00_classroom_auto_396",
+          "pixel": [
+            667,
+            1047
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_054",
+          "clearance_m": 2.2393
+        },
+        {
+          "id": "wp_r00_classroom_auto_397",
+          "pixel": [
+            959,
+            1104
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_021",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_398",
+          "pixel": [
+            778,
+            681
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_010",
+          "clearance_m": 1.0551
+        },
+        {
+          "id": "wp_r00_classroom_auto_399",
+          "pixel": [
+            937,
+            863
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_096",
+          "clearance_m": 1.1813
+        },
+        {
+          "id": "wp_r00_classroom_auto_400",
+          "pixel": [
+            339,
+            909
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_088",
+          "clearance_m": 0.2468
+        },
+        {
+          "id": "wp_r00_classroom_auto_401",
+          "pixel": [
+            599,
+            969
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_061",
+          "clearance_m": 3.6372
+        },
+        {
+          "id": "wp_r00_classroom_auto_402",
+          "pixel": [
+            377,
+            1164
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_029",
+          "clearance_m": 0.5534
+        },
+        {
+          "id": "wp_r00_classroom_auto_403",
+          "pixel": [
+            565,
+            1057
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_070",
+          "clearance_m": 2.0982
+        },
+        {
+          "id": "wp_r00_classroom_auto_404",
+          "pixel": [
+            830,
+            974
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_075",
+          "clearance_m": 3.068
+        },
+        {
+          "id": "wp_r00_classroom_auto_405",
+          "pixel": [
+            650,
+            1118
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_025",
+          "clearance_m": 0.9874
+        },
+        {
+          "id": "wp_r00_classroom_auto_406",
+          "pixel": [
+            440,
+            987
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_052",
+          "clearance_m": 2.3379
+        },
+        {
+          "id": "wp_r00_classroom_auto_407",
+          "pixel": [
+            543,
+            1026
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_093",
+          "clearance_m": 2.6448
+        },
+        {
+          "id": "wp_r00_classroom_auto_408",
+          "pixel": [
+            646,
+            840
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_097",
+          "clearance_m": 2.8481
+        },
+        {
+          "id": "wp_r00_classroom_auto_409",
+          "pixel": [
+            925,
+            731
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_016",
+          "clearance_m": 1.3929
+        },
+        {
+          "id": "wp_r00_classroom_auto_410",
+          "pixel": [
+            542,
+            1090
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_071",
+          "clearance_m": 1.5163
+        },
+        {
+          "id": "wp_r00_classroom_auto_411",
+          "pixel": [
+            396,
+            662
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_082",
+          "clearance_m": 0.6488
+        },
+        {
+          "id": "wp_r00_classroom_auto_412",
+          "pixel": [
+            740,
+            817
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_046",
+          "clearance_m": 2.5371
+        },
+        {
+          "id": "wp_r00_classroom_auto_413",
+          "pixel": [
+            503,
+            1042
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_093",
+          "clearance_m": 2.3627
+        },
+        {
+          "id": "wp_r00_classroom_auto_414",
+          "pixel": [
+            599,
+            1084
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_070",
+          "clearance_m": 1.6221
+        },
+        {
+          "id": "wp_r00_classroom_auto_415",
+          "pixel": [
+            270,
+            1142
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_030",
+          "clearance_m": 0.2292
+        },
+        {
+          "id": "wp_r00_classroom_auto_416",
+          "pixel": [
+            939,
+            649
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_014",
+          "clearance_m": 0.2116
+        },
+        {
+          "id": "wp_r00_classroom_auto_417",
+          "pixel": [
+            494,
+            657
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_083",
+          "clearance_m": 0.2123
+        },
+        {
+          "id": "wp_r00_classroom_auto_418",
+          "pixel": [
+            747,
+            624
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_012",
+          "clearance_m": 0.1874
+        },
+        {
+          "id": "wp_r00_classroom_auto_419",
+          "pixel": [
+            864,
+            1157
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_022",
+          "clearance_m": 0.1587
+        },
+        {
+          "id": "wp_r00_classroom_auto_420",
+          "pixel": [
+            907,
+            622
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_013",
+          "clearance_m": 0.1587
+        },
+        {
+          "id": "wp_r00_classroom_auto_421",
+          "pixel": [
+            623,
+            1165
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_025",
+          "clearance_m": 0.1587
+        },
+        {
+          "id": "wp_r00_classroom_auto_422",
+          "pixel": [
+            829,
+            1169
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_023",
+          "clearance_m": 0.1587
+        },
+        {
+          "id": "wp_r00_classroom_auto_423",
+          "pixel": [
+            279,
+            956
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_classroom_090",
+          "clearance_m": 0.1234
         }
       ]
     }

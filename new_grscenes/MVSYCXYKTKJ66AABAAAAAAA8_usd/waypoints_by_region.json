@@ -713,6 +713,26 @@
             458,
             303
           ]
+        },
+        {
+          "id": "wp_r00_shopping_area_auto_001",
+          "pixel": [
+            426,
+            289
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shopping_area_091",
+          "clearance_m": 0.2281
+        },
+        {
+          "id": "wp_r00_shopping_area_auto_002",
+          "pixel": [
+            424,
+            102
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shopping_area_044",
+          "clearance_m": 0.133
         }
       ]
     }

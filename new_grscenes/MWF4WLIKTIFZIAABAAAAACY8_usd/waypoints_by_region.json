@@ -1600,6 +1600,4986 @@
             1150,
             484
           ]
+        },
+        {
+          "id": "wp_r00_shop_auto_001",
+          "pixel": [
+            1042,
+            741
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_091",
+          "clearance_m": 1.1398
+        },
+        {
+          "id": "wp_r00_shop_auto_002",
+          "pixel": [
+            1074,
+            976
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_030",
+          "clearance_m": 1.7209
+        },
+        {
+          "id": "wp_r00_shop_auto_003",
+          "pixel": [
+            1106,
+            893
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 1.0149
+        },
+        {
+          "id": "wp_r00_shop_auto_004",
+          "pixel": [
+            1116,
+            838
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_014",
+          "clearance_m": 0.7943
+        },
+        {
+          "id": "wp_r00_shop_auto_005",
+          "pixel": [
+            849,
+            844
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_055",
+          "clearance_m": 0.3309
+        },
+        {
+          "id": "wp_r00_shop_auto_006",
+          "pixel": [
+            1002,
+            1019
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_037",
+          "clearance_m": 2.083
+        },
+        {
+          "id": "wp_r00_shop_auto_007",
+          "pixel": [
+            808,
+            632
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_174",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_008",
+          "pixel": [
+            1129,
+            933
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 0.5074
+        },
+        {
+          "id": "wp_r00_shop_auto_009",
+          "pixel": [
+            882,
+            769
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_071",
+          "clearance_m": 0.3309
+        },
+        {
+          "id": "wp_r00_shop_auto_010",
+          "pixel": [
+            855,
+            634
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_074",
+          "clearance_m": 0.3751
+        },
+        {
+          "id": "wp_r00_shop_auto_011",
+          "pixel": [
+            1047,
+            855
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_032",
+          "clearance_m": 2.3166
+        },
+        {
+          "id": "wp_r00_shop_auto_012",
+          "pixel": [
+            896,
+            1088
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_045",
+          "clearance_m": 0.3089
+        },
+        {
+          "id": "wp_r00_shop_auto_013",
+          "pixel": [
+            1119,
+            966
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_012",
+          "clearance_m": 0.7281
+        },
+        {
+          "id": "wp_r00_shop_auto_014",
+          "pixel": [
+            1008,
+            960
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_037",
+          "clearance_m": 3.177
+        },
+        {
+          "id": "wp_r00_shop_auto_015",
+          "pixel": [
+            882,
+            909
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_062",
+          "clearance_m": 1.9108
+        },
+        {
+          "id": "wp_r00_shop_auto_016",
+          "pixel": [
+            1033,
+            985
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_024",
+          "clearance_m": 2.6255
+        },
+        {
+          "id": "wp_r00_shop_auto_017",
+          "pixel": [
+            1065,
+            798
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_032",
+          "clearance_m": 1.9195
+        },
+        {
+          "id": "wp_r00_shop_auto_018",
+          "pixel": [
+            878,
+            408
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_079",
+          "clearance_m": 0.3309
+        },
+        {
+          "id": "wp_r00_shop_auto_019",
+          "pixel": [
+            1137,
+            1025
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_011",
+          "clearance_m": 0.3309
+        },
+        {
+          "id": "wp_r00_shop_auto_020",
+          "pixel": [
+            1130,
+            779
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 0.4854
+        },
+        {
+          "id": "wp_r00_shop_auto_021",
+          "pixel": [
+            1012,
+            848
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_034",
+          "clearance_m": 3.0888
+        },
+        {
+          "id": "wp_r00_shop_auto_022",
+          "pixel": [
+            1140,
+            734
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_094",
+          "clearance_m": 0.5936
+        },
+        {
+          "id": "wp_r00_shop_auto_023",
+          "pixel": [
+            923,
+            403
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_080",
+          "clearance_m": 0.2516
+        },
+        {
+          "id": "wp_r00_shop_auto_024",
+          "pixel": [
+            1051,
+            1059
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_043",
+          "clearance_m": 1.743
+        },
+        {
+          "id": "wp_r00_shop_auto_025",
+          "pixel": [
+            748,
+            1041
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_047",
+          "clearance_m": 0.3751
+        },
+        {
+          "id": "wp_r00_shop_auto_026",
+          "pixel": [
+            784,
+            833
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_068",
+          "clearance_m": 0.2573
+        },
+        {
+          "id": "wp_r00_shop_auto_027",
+          "pixel": [
+            973,
+            716
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_018",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_028",
+          "pixel": [
+            872,
+            1051
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_040",
+          "clearance_m": 1.1252
+        },
+        {
+          "id": "wp_r00_shop_auto_029",
+          "pixel": [
+            871,
+            942
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_061",
+          "clearance_m": 2.477
+        },
+        {
+          "id": "wp_r00_shop_auto_030",
+          "pixel": [
+            743,
+            905
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_066",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_031",
+          "pixel": [
+            832,
+            1010
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_040",
+          "clearance_m": 2.0298
+        },
+        {
+          "id": "wp_r00_shop_auto_032",
+          "pixel": [
+            1084,
+            825
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_014",
+          "clearance_m": 1.5003
+        },
+        {
+          "id": "wp_r00_shop_auto_033",
+          "pixel": [
+            1142,
+            573
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_096",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_034",
+          "pixel": [
+            907,
+            986
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_039",
+          "clearance_m": 2.5593
+        },
+        {
+          "id": "wp_r00_shop_auto_035",
+          "pixel": [
+            1140,
+            1085
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_010",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_036",
+          "pixel": [
+            980,
+            525
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_118",
+          "clearance_m": 1.412
+        },
+        {
+          "id": "wp_r00_shop_auto_037",
+          "pixel": [
+            975,
+            1084
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_044",
+          "clearance_m": 0.5616
+        },
+        {
+          "id": "wp_r00_shop_auto_038",
+          "pixel": [
+            775,
+            904
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_064",
+          "clearance_m": 0.9708
+        },
+        {
+          "id": "wp_r00_shop_auto_039",
+          "pixel": [
+            1003,
+            817
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_089",
+          "clearance_m": 2.5151
+        },
+        {
+          "id": "wp_r00_shop_auto_040",
+          "pixel": [
+            940,
+            1031
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_039",
+          "clearance_m": 1.5665
+        },
+        {
+          "id": "wp_r00_shop_auto_041",
+          "pixel": [
+            946,
+            800
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_021",
+          "clearance_m": 1.743
+        },
+        {
+          "id": "wp_r00_shop_auto_042",
+          "pixel": [
+            957,
+            579
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_120",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_043",
+          "pixel": [
+            1015,
+            879
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_023",
+          "clearance_m": 3.0226
+        },
+        {
+          "id": "wp_r00_shop_auto_044",
+          "pixel": [
+            1048,
+            772
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_033",
+          "clearance_m": 1.7708
+        },
+        {
+          "id": "wp_r00_shop_auto_045",
+          "pixel": [
+            1159,
+            165
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_137",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_046",
+          "pixel": [
+            935,
+            374
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_149",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_047",
+          "pixel": [
+            936,
+            1000
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_039",
+          "clearance_m": 2.2504
+        },
+        {
+          "id": "wp_r00_shop_auto_048",
+          "pixel": [
+            958,
+            946
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_059",
+          "clearance_m": 3.4419
+        },
+        {
+          "id": "wp_r00_shop_auto_049",
+          "pixel": [
+            1016,
+            761
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_018",
+          "clearance_m": 1.295
+        },
+        {
+          "id": "wp_r00_shop_auto_050",
+          "pixel": [
+            876,
+            830
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_070",
+          "clearance_m": 0.5002
+        },
+        {
+          "id": "wp_r00_shop_auto_051",
+          "pixel": [
+            1140,
+            988
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_012",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_052",
+          "pixel": [
+            1121,
+            808
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_053",
+          "pixel": [
+            876,
+            138
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_191",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_054",
+          "pixel": [
+            989,
+            1046
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_043",
+          "clearance_m": 1.423
+        },
+        {
+          "id": "wp_r00_shop_auto_055",
+          "pixel": [
+            1078,
+            1073
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_028",
+          "clearance_m": 1.4341
+        },
+        {
+          "id": "wp_r00_shop_auto_056",
+          "pixel": [
+            1121,
+            867
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_014",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_057",
+          "pixel": [
+            874,
+            364
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_080",
+          "clearance_m": 0.2582
+        },
+        {
+          "id": "wp_r00_shop_auto_058",
+          "pixel": [
+            844,
+            1040
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_046",
+          "clearance_m": 1.3679
+        },
+        {
+          "id": "wp_r00_shop_auto_059",
+          "pixel": [
+            937,
+            705
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_087",
+          "clearance_m": 0.2764
+        },
+        {
+          "id": "wp_r00_shop_auto_060",
+          "pixel": [
+            1108,
+            1031
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_029",
+          "clearance_m": 0.9708
+        },
+        {
+          "id": "wp_r00_shop_auto_061",
+          "pixel": [
+            746,
+            1012
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_048",
+          "clearance_m": 0.3309
+        },
+        {
+          "id": "wp_r00_shop_auto_062",
+          "pixel": [
+            783,
+            1090
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_001",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_063",
+          "pixel": [
+            1017,
+            933
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_023",
+          "clearance_m": 2.9785
+        },
+        {
+          "id": "wp_r00_shop_auto_064",
+          "pixel": [
+            916,
+            828
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_054",
+          "clearance_m": 1.1762
+        },
+        {
+          "id": "wp_r00_shop_auto_065",
+          "pixel": [
+            1093,
+            955
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 1.3017
+        },
+        {
+          "id": "wp_r00_shop_auto_066",
+          "pixel": [
+            820,
+            846
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_069",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_067",
+          "pixel": [
+            1142,
+            531
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_096",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_068",
+          "pixel": [
+            908,
+            920
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_059",
+          "clearance_m": 2.4435
+        },
+        {
+          "id": "wp_r00_shop_auto_069",
+          "pixel": [
+            922,
+            519
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_117",
+          "clearance_m": 1.3017
+        },
+        {
+          "id": "wp_r00_shop_auto_070",
+          "pixel": [
+            1040,
+            690
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_091",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_071",
+          "pixel": [
+            912,
+            753
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_019",
+          "clearance_m": 0.9928
+        },
+        {
+          "id": "wp_r00_shop_auto_072",
+          "pixel": [
+            963,
+            875
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_053",
+          "clearance_m": 2.5955
+        },
+        {
+          "id": "wp_r00_shop_auto_073",
+          "pixel": [
+            874,
+            456
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_078",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_074",
+          "pixel": [
+            912,
+            615
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_084",
+          "clearance_m": 0.7943
+        },
+        {
+          "id": "wp_r00_shop_auto_075",
+          "pixel": [
+            874,
+            590
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_075",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_076",
+          "pixel": [
+            743,
+            955
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_048",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_077",
+          "pixel": [
+            880,
+            263
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_195",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_078",
+          "pixel": [
+            1142,
+            608
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_095",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_079",
+          "pixel": [
+            743,
+            229
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_183",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_080",
+          "pixel": [
+            979,
+            770
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_089",
+          "clearance_m": 1.4782
+        },
+        {
+          "id": "wp_r00_shop_auto_081",
+          "pixel": [
+            841,
+            870
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_055",
+          "clearance_m": 0.7772
+        },
+        {
+          "id": "wp_r00_shop_auto_082",
+          "pixel": [
+            981,
+            962
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_037",
+          "clearance_m": 3.1338
+        },
+        {
+          "id": "wp_r00_shop_auto_083",
+          "pixel": [
+            874,
+            493
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_077",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_084",
+          "pixel": [
+            885,
+            82
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_207",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_085",
+          "pixel": [
+            757,
+            770
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_178",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_086",
+          "pixel": [
+            1061,
+            519
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_113",
+          "clearance_m": 1.2796
+        },
+        {
+          "id": "wp_r00_shop_auto_087",
+          "pixel": [
+            1070,
+            917
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 1.8091
+        },
+        {
+          "id": "wp_r00_shop_auto_088",
+          "pixel": [
+            902,
+            351
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_157",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_089",
+          "pixel": [
+            805,
+            985
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_049",
+          "clearance_m": 1.6326
+        },
+        {
+          "id": "wp_r00_shop_auto_090",
+          "pixel": [
+            1103,
+            504
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_106",
+          "clearance_m": 0.9579
+        },
+        {
+          "id": "wp_r00_shop_auto_091",
+          "pixel": [
+            1097,
+            393
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_145",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_092",
+          "pixel": [
+            743,
+            177
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_184",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_093",
+          "pixel": [
+            1075,
+            771
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 1.6988
+        },
+        {
+          "id": "wp_r00_shop_auto_094",
+          "pixel": [
+            921,
+            430
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_079",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_095",
+          "pixel": [
+            841,
+            83
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_189",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_096",
+          "pixel": [
+            932,
+            1057
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_045",
+          "clearance_m": 0.9928
+        },
+        {
+          "id": "wp_r00_shop_auto_097",
+          "pixel": [
+            980,
+            499
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_114",
+          "clearance_m": 0.8384
+        },
+        {
+          "id": "wp_r00_shop_auto_098",
+          "pixel": [
+            986,
+            375
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_149",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_099",
+          "pixel": [
+            1066,
+            1001
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_025",
+          "clearance_m": 1.8974
+        },
+        {
+          "id": "wp_r00_shop_auto_100",
+          "pixel": [
+            1081,
+            883
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_031",
+          "clearance_m": 1.5665
+        },
+        {
+          "id": "wp_r00_shop_auto_101",
+          "pixel": [
+            901,
+            131
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_208",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_102",
+          "pixel": [
+            888,
+            1030
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_039",
+          "clearance_m": 1.5885
+        },
+        {
+          "id": "wp_r00_shop_auto_103",
+          "pixel": [
+            1001,
+            541
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_112",
+          "clearance_m": 1.0811
+        },
+        {
+          "id": "wp_r00_shop_auto_104",
+          "pixel": [
+            1002,
+            912
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_036",
+          "clearance_m": 3.3094
+        },
+        {
+          "id": "wp_r00_shop_auto_105",
+          "pixel": [
+            742,
+            82
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_186",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_106",
+          "pixel": [
+            1030,
+            1075
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_043",
+          "clearance_m": 1.3899
+        },
+        {
+          "id": "wp_r00_shop_auto_107",
+          "pixel": [
+            991,
+            865
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_034",
+          "clearance_m": 3.0203
+        },
+        {
+          "id": "wp_r00_shop_auto_108",
+          "pixel": [
+            857,
+            964
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_057",
+          "clearance_m": 2.7799
+        },
+        {
+          "id": "wp_r00_shop_auto_109",
+          "pixel": [
+            758,
+            817
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_178",
+          "clearance_m": 0.2573
+        },
+        {
+          "id": "wp_r00_shop_auto_110",
+          "pixel": [
+            900,
+            591
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_075",
+          "clearance_m": 0.8163
+        },
+        {
+          "id": "wp_r00_shop_auto_111",
+          "pixel": [
+            812,
+            957
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_065",
+          "clearance_m": 1.7871
+        },
+        {
+          "id": "wp_r00_shop_auto_112",
+          "pixel": [
+            1159,
+            258
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_141",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_113",
+          "pixel": [
+            1010,
+            1126
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_008",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_114",
+          "pixel": [
+            995,
+            579
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_122",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_115",
+          "pixel": [
+            1063,
+            591
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_109",
+          "clearance_m": 0.5957
+        },
+        {
+          "id": "wp_r00_shop_auto_116",
+          "pixel": [
+            874,
+            528
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_076",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_117",
+          "pixel": [
+            1108,
+            571
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_096",
+          "clearance_m": 1.0149
+        },
+        {
+          "id": "wp_r00_shop_auto_118",
+          "pixel": [
+            998,
+            721
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_018",
+          "clearance_m": 0.3971
+        },
+        {
+          "id": "wp_r00_shop_auto_119",
+          "pixel": [
+            808,
+            82
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_187",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_120",
+          "pixel": [
+            1159,
+            294
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_142",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_121",
+          "pixel": [
+            1051,
+            392
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_145",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_122",
+          "pixel": [
+            926,
+            851
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_053",
+          "clearance_m": 1.6238
+        },
+        {
+          "id": "wp_r00_shop_auto_123",
+          "pixel": [
+            1043,
+            928
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_024",
+          "clearance_m": 2.4048
+        },
+        {
+          "id": "wp_r00_shop_auto_124",
+          "pixel": [
+            1103,
+            1070
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_011",
+          "clearance_m": 1.0811
+        },
+        {
+          "id": "wp_r00_shop_auto_125",
+          "pixel": [
+            889,
+            1005
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_039",
+          "clearance_m": 2.1401
+        },
+        {
+          "id": "wp_r00_shop_auto_126",
+          "pixel": [
+            973,
+            912
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_035",
+          "clearance_m": 3.2918
+        },
+        {
+          "id": "wp_r00_shop_auto_127",
+          "pixel": [
+            1073,
+            1100
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_006",
+          "clearance_m": 0.8384
+        },
+        {
+          "id": "wp_r00_shop_auto_128",
+          "pixel": [
+            795,
+            889
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_063",
+          "clearance_m": 1.1932
+        },
+        {
+          "id": "wp_r00_shop_auto_129",
+          "pixel": [
+            937,
+            618
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_085",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_130",
+          "pixel": [
+            835,
+            1073
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_003",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_131",
+          "pixel": [
+            967,
+            820
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_034",
+          "clearance_m": 2.2248
+        },
+        {
+          "id": "wp_r00_shop_auto_132",
+          "pixel": [
+            854,
+            892
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_055",
+          "clearance_m": 1.3123
+        },
+        {
+          "id": "wp_r00_shop_auto_133",
+          "pixel": [
+            966,
+            741
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_018",
+          "clearance_m": 0.8384
+        },
+        {
+          "id": "wp_r00_shop_auto_134",
+          "pixel": [
+            1094,
+            551
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_105",
+          "clearance_m": 1.3238
+        },
+        {
+          "id": "wp_r00_shop_auto_135",
+          "pixel": [
+            1045,
+            472
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_113",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_136",
+          "pixel": [
+            849,
+            992
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_058",
+          "clearance_m": 2.4269
+        },
+        {
+          "id": "wp_r00_shop_auto_137",
+          "pixel": [
+            1023,
+            1007
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_025",
+          "clearance_m": 2.5521
+        },
+        {
+          "id": "wp_r00_shop_auto_138",
+          "pixel": [
+            757,
+            663
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_172",
+          "clearance_m": 0.2666
+        },
+        {
+          "id": "wp_r00_shop_auto_139",
+          "pixel": [
+            1068,
+            843
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_014",
+          "clearance_m": 1.8533
+        },
+        {
+          "id": "wp_r00_shop_auto_140",
+          "pixel": [
+            768,
+            82
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_186",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_141",
+          "pixel": [
+            1018,
+            737
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_090",
+          "clearance_m": 0.7884
+        },
+        {
+          "id": "wp_r00_shop_auto_142",
+          "pixel": [
+            922,
+            804
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_020",
+          "clearance_m": 1.2134
+        },
+        {
+          "id": "wp_r00_shop_auto_143",
+          "pixel": [
+            802,
+            1036
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_046",
+          "clearance_m": 1.4561
+        },
+        {
+          "id": "wp_r00_shop_auto_144",
+          "pixel": [
+            1113,
+            526
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_096",
+          "clearance_m": 0.9046
+        },
+        {
+          "id": "wp_r00_shop_auto_145",
+          "pixel": [
+            1125,
+            659
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_103",
+          "clearance_m": 0.6413
+        },
+        {
+          "id": "wp_r00_shop_auto_146",
+          "pixel": [
+            1124,
+            909
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 0.6178
+        },
+        {
+          "id": "wp_r00_shop_auto_147",
+          "pixel": [
+            768,
+            1028
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_047",
+          "clearance_m": 0.8163
+        },
+        {
+          "id": "wp_r00_shop_auto_148",
+          "pixel": [
+            1098,
+            979
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_012",
+          "clearance_m": 1.1914
+        },
+        {
+          "id": "wp_r00_shop_auto_149",
+          "pixel": [
+            1148,
+            342
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_129",
+          "clearance_m": 0.4854
+        },
+        {
+          "id": "wp_r00_shop_auto_150",
+          "pixel": [
+            935,
+            569
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_084",
+          "clearance_m": 0.6248
+        },
+        {
+          "id": "wp_r00_shop_auto_151",
+          "pixel": [
+            826,
+            926
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_064",
+          "clearance_m": 2.0077
+        },
+        {
+          "id": "wp_r00_shop_auto_152",
+          "pixel": [
+            901,
+            414
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_079",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_153",
+          "pixel": [
+            882,
+            963
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_050",
+          "clearance_m": 2.9935
+        },
+        {
+          "id": "wp_r00_shop_auto_154",
+          "pixel": [
+            1129,
+            755
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_016",
+          "clearance_m": 0.5193
+        },
+        {
+          "id": "wp_r00_shop_auto_155",
+          "pixel": [
+            917,
+            1077
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_045",
+          "clearance_m": 0.5516
+        },
+        {
+          "id": "wp_r00_shop_auto_156",
+          "pixel": [
+            937,
+            661
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_086",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_157",
+          "pixel": [
+            1000,
+            782
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_033",
+          "clearance_m": 1.743
+        },
+        {
+          "id": "wp_r00_shop_auto_158",
+          "pixel": [
+            931,
+            916
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_052",
+          "clearance_m": 2.7187
+        },
+        {
+          "id": "wp_r00_shop_auto_159",
+          "pixel": [
+            1158,
+            222
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_140",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_160",
+          "pixel": [
+            1039,
+            877
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_031",
+          "clearance_m": 2.4931
+        },
+        {
+          "id": "wp_r00_shop_auto_161",
+          "pixel": [
+            949,
+            855
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_021",
+          "clearance_m": 2.0963
+        },
+        {
+          "id": "wp_r00_shop_auto_162",
+          "pixel": [
+            995,
+            1069
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_005",
+          "clearance_m": 1.1078
+        },
+        {
+          "id": "wp_r00_shop_auto_163",
+          "pixel": [
+            1121,
+            1099
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_007",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_164",
+          "pixel": [
+            1045,
+            538
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_124",
+          "clearance_m": 1.4209
+        },
+        {
+          "id": "wp_r00_shop_auto_165",
+          "pixel": [
+            900,
+            672
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_086",
+          "clearance_m": 0.7281
+        },
+        {
+          "id": "wp_r00_shop_auto_166",
+          "pixel": [
+            911,
+            701
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_072",
+          "clearance_m": 0.8175
+        },
+        {
+          "id": "wp_r00_shop_auto_167",
+          "pixel": [
+            903,
+            258
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_195",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_168",
+          "pixel": [
+            1089,
+            1002
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_012",
+          "clearance_m": 1.3899
+        },
+        {
+          "id": "wp_r00_shop_auto_169",
+          "pixel": [
+            774,
+            120
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_185",
+          "clearance_m": 0.2496
+        },
+        {
+          "id": "wp_r00_shop_auto_170",
+          "pixel": [
+            906,
+            307
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_155",
+          "clearance_m": 0.2467
+        },
+        {
+          "id": "wp_r00_shop_auto_171",
+          "pixel": [
+            880,
+            715
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_071",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_172",
+          "pixel": [
+            878,
+            170
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_191",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_173",
+          "pixel": [
+            969,
+            473
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_114",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_174",
+          "pixel": [
+            933,
+            498
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_082",
+          "clearance_m": 0.8237
+        },
+        {
+          "id": "wp_r00_shop_auto_175",
+          "pixel": [
+            1060,
+            1037
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_025",
+          "clearance_m": 2.0298
+        },
+        {
+          "id": "wp_r00_shop_auto_176",
+          "pixel": [
+            1025,
+            1030
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_043",
+          "clearance_m": 2.185
+        },
+        {
+          "id": "wp_r00_shop_auto_177",
+          "pixel": [
+            891,
+            875
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_062",
+          "clearance_m": 1.4688
+        },
+        {
+          "id": "wp_r00_shop_auto_178",
+          "pixel": [
+            879,
+            792
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_070",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_179",
+          "pixel": [
+            742,
+            1091
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_001",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_180",
+          "pixel": [
+            941,
+            473
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_114",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_181",
+          "pixel": [
+            879,
+            1073
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_003",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_182",
+          "pixel": [
+            1080,
+            505
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_106",
+          "clearance_m": 0.9708
+        },
+        {
+          "id": "wp_r00_shop_auto_183",
+          "pixel": [
+            792,
+            1069
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_002",
+          "clearance_m": 0.7281
+        },
+        {
+          "id": "wp_r00_shop_auto_184",
+          "pixel": [
+            1117,
+            245
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_131",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_185",
+          "pixel": [
+            1066,
+            690
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_102",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_186",
+          "pixel": [
+            953,
+            924
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_052",
+          "clearance_m": 3.1688
+        },
+        {
+          "id": "wp_r00_shop_auto_187",
+          "pixel": [
+            913,
+            572
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_075",
+          "clearance_m": 0.967
+        },
+        {
+          "id": "wp_r00_shop_auto_188",
+          "pixel": [
+            742,
+            323
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_162",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_189",
+          "pixel": [
+            863,
+            87
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_189",
+          "clearance_m": 0.353
+        },
+        {
+          "id": "wp_r00_shop_auto_190",
+          "pixel": [
+            1159,
+            721
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_094",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_191",
+          "pixel": [
+            768,
+            954
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_066",
+          "clearance_m": 0.8163
+        },
+        {
+          "id": "wp_r00_shop_auto_192",
+          "pixel": [
+            1043,
+            799
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_033",
+          "clearance_m": 2.262
+        },
+        {
+          "id": "wp_r00_shop_auto_193",
+          "pixel": [
+            936,
+            978
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_060",
+          "clearance_m": 2.7358
+        },
+        {
+          "id": "wp_r00_shop_auto_194",
+          "pixel": [
+            1062,
+            871
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_031",
+          "clearance_m": 1.9856
+        },
+        {
+          "id": "wp_r00_shop_auto_195",
+          "pixel": [
+            1010,
+            982
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_037",
+          "clearance_m": 2.8943
+        },
+        {
+          "id": "wp_r00_shop_auto_196",
+          "pixel": [
+            874,
+            430
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_079",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_197",
+          "pixel": [
+            969,
+            1036
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_044",
+          "clearance_m": 1.48
+        },
+        {
+          "id": "wp_r00_shop_auto_198",
+          "pixel": [
+            1081,
+            294
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_151",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_199",
+          "pixel": [
+            1004,
+            494
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_118",
+          "clearance_m": 0.7281
+        },
+        {
+          "id": "wp_r00_shop_auto_200",
+          "pixel": [
+            875,
+            386
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_080",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_201",
+          "pixel": [
+            1060,
+            753
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_017",
+          "clearance_m": 1.6069
+        },
+        {
+          "id": "wp_r00_shop_auto_202",
+          "pixel": [
+            824,
+            1031
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_046",
+          "clearance_m": 1.5665
+        },
+        {
+          "id": "wp_r00_shop_auto_203",
+          "pixel": [
+            878,
+            674
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_072",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_204",
+          "pixel": [
+            1052,
+            973
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_024",
+          "clearance_m": 2.2063
+        },
+        {
+          "id": "wp_r00_shop_auto_205",
+          "pixel": [
+            899,
+            783
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_020",
+          "clearance_m": 0.706
+        },
+        {
+          "id": "wp_r00_shop_auto_206",
+          "pixel": [
+            1099,
+            809
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 1.1693
+        },
+        {
+          "id": "wp_r00_shop_auto_207",
+          "pixel": [
+            902,
+            329
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_156",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_208",
+          "pixel": [
+            1159,
+            103
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_215",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_209",
+          "pixel": [
+            1088,
+            905
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 1.412
+        },
+        {
+          "id": "wp_r00_shop_auto_210",
+          "pixel": [
+            920,
+            1039
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_045",
+          "clearance_m": 1.3899
+        },
+        {
+          "id": "wp_r00_shop_auto_211",
+          "pixel": [
+            1102,
+            205
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_133",
+          "clearance_m": 0.2516
+        },
+        {
+          "id": "wp_r00_shop_auto_212",
+          "pixel": [
+            877,
+            852
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_055",
+          "clearance_m": 0.875
+        },
+        {
+          "id": "wp_r00_shop_auto_213",
+          "pixel": [
+            902,
+            634
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_073",
+          "clearance_m": 1.0149
+        },
+        {
+          "id": "wp_r00_shop_auto_214",
+          "pixel": [
+            742,
+            862
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_179",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_215",
+          "pixel": [
+            912,
+            868
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_062",
+          "clearance_m": 1.6537
+        },
+        {
+          "id": "wp_r00_shop_auto_216",
+          "pixel": [
+            1086,
+            644
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_103",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_217",
+          "pixel": [
+            1063,
+            821
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_032",
+          "clearance_m": 1.9636
+        },
+        {
+          "id": "wp_r00_shop_auto_218",
+          "pixel": [
+            1127,
+            140
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_134",
+          "clearance_m": 0.4854
+        },
+        {
+          "id": "wp_r00_shop_auto_219",
+          "pixel": [
+            874,
+            553
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_076",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_220",
+          "pixel": [
+            742,
+            584
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_170",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_221",
+          "pixel": [
+            960,
+            784
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_088",
+          "clearance_m": 1.7871
+        },
+        {
+          "id": "wp_r00_shop_auto_222",
+          "pixel": [
+            853,
+            1061
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_003",
+          "clearance_m": 0.9046
+        },
+        {
+          "id": "wp_r00_shop_auto_223",
+          "pixel": [
+            1145,
+            370
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_128",
+          "clearance_m": 0.5516
+        },
+        {
+          "id": "wp_r00_shop_auto_224",
+          "pixel": [
+            1162,
+            685
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_094",
+          "clearance_m": 0.3592
+        },
+        {
+          "id": "wp_r00_shop_auto_225",
+          "pixel": [
+            890,
+            932
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_061",
+          "clearance_m": 2.4387
+        },
+        {
+          "id": "wp_r00_shop_auto_226",
+          "pixel": [
+            867,
+            652
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_073",
+          "clearance_m": 0.2496
+        },
+        {
+          "id": "wp_r00_shop_auto_227",
+          "pixel": [
+            1119,
+            616
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_095",
+          "clearance_m": 0.7722
+        },
+        {
+          "id": "wp_r00_shop_auto_228",
+          "pixel": [
+            1110,
+            942
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 0.9266
+        },
+        {
+          "id": "wp_r00_shop_auto_229",
+          "pixel": [
+            934,
+            752
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_087",
+          "clearance_m": 1.1517
+        },
+        {
+          "id": "wp_r00_shop_auto_230",
+          "pixel": [
+            742,
+            1062
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_001",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_231",
+          "pixel": [
+            818,
+            867
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_063",
+          "clearance_m": 0.706
+        },
+        {
+          "id": "wp_r00_shop_auto_232",
+          "pixel": [
+            1119,
+            732
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_093",
+          "clearance_m": 0.9548
+        },
+        {
+          "id": "wp_r00_shop_auto_233",
+          "pixel": [
+            1139,
+            173
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_138",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_234",
+          "pixel": [
+            1064,
+            732
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_091",
+          "clearance_m": 1.1693
+        },
+        {
+          "id": "wp_r00_shop_auto_235",
+          "pixel": [
+            930,
+            895
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_053",
+          "clearance_m": 2.3558
+        },
+        {
+          "id": "wp_r00_shop_auto_236",
+          "pixel": [
+            804,
+            111
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_187",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_237",
+          "pixel": [
+            1021,
+            829
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_032",
+          "clearance_m": 2.797
+        },
+        {
+          "id": "wp_r00_shop_auto_238",
+          "pixel": [
+            762,
+            622
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_174",
+          "clearance_m": 0.2657
+        },
+        {
+          "id": "wp_r00_shop_auto_239",
+          "pixel": [
+            780,
+            924
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_065",
+          "clearance_m": 1.0811
+        },
+        {
+          "id": "wp_r00_shop_auto_240",
+          "pixel": [
+            1110,
+            770
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 0.9266
+        },
+        {
+          "id": "wp_r00_shop_auto_241",
+          "pixel": [
+            1141,
+            552
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_096",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_242",
+          "pixel": [
+            742,
+            545
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_170",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_243",
+          "pixel": [
+            765,
+            987
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_048",
+          "clearance_m": 0.7501
+        },
+        {
+          "id": "wp_r00_shop_auto_244",
+          "pixel": [
+            1159,
+            409
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_144",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_245",
+          "pixel": [
+            831,
+            906
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_056",
+          "clearance_m": 1.5665
+        },
+        {
+          "id": "wp_r00_shop_auto_246",
+          "pixel": [
+            912,
+            501
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_082",
+          "clearance_m": 1.0526
+        },
+        {
+          "id": "wp_r00_shop_auto_247",
+          "pixel": [
+            971,
+            1128
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_008",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_248",
+          "pixel": [
+            916,
+            660
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_085",
+          "clearance_m": 0.706
+        },
+        {
+          "id": "wp_r00_shop_auto_249",
+          "pixel": [
+            914,
+            283
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_154",
+          "clearance_m": 0.2573
+        },
+        {
+          "id": "wp_r00_shop_auto_250",
+          "pixel": [
+            896,
+            827
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_070",
+          "clearance_m": 0.7772
+        },
+        {
+          "id": "wp_r00_shop_auto_251",
+          "pixel": [
+            743,
+            509
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_168",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_252",
+          "pixel": [
+            1131,
+            1006
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_012",
+          "clearance_m": 0.4633
+        },
+        {
+          "id": "wp_r00_shop_auto_253",
+          "pixel": [
+            1111,
+            101
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_214",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_254",
+          "pixel": [
+            742,
+            445
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_166",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_255",
+          "pixel": [
+            1041,
+            721
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_091",
+          "clearance_m": 0.8136
+        },
+        {
+          "id": "wp_r00_shop_auto_256",
+          "pixel": [
+            1138,
+            409
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_144",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_257",
+          "pixel": [
+            961,
+            531
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_120",
+          "clearance_m": 1.3017
+        },
+        {
+          "id": "wp_r00_shop_auto_258",
+          "pixel": [
+            1027,
+            966
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_024",
+          "clearance_m": 2.7578
+        },
+        {
+          "id": "wp_r00_shop_auto_259",
+          "pixel": [
+            943,
+            393
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_149",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_260",
+          "pixel": [
+            970,
+            994
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_037",
+          "clearance_m": 2.4
+        },
+        {
+          "id": "wp_r00_shop_auto_261",
+          "pixel": [
+            802,
+            348
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_161",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_262",
+          "pixel": [
+            939,
+            530
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_117",
+          "clearance_m": 1.3645
+        },
+        {
+          "id": "wp_r00_shop_auto_263",
+          "pixel": [
+            1102,
+            1050
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_028",
+          "clearance_m": 1.1031
+        },
+        {
+          "id": "wp_r00_shop_auto_264",
+          "pixel": [
+            1027,
+            1095
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_026",
+          "clearance_m": 0.9487
+        },
+        {
+          "id": "wp_r00_shop_auto_265",
+          "pixel": [
+            1041,
+            499
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_116",
+          "clearance_m": 0.8384
+        },
+        {
+          "id": "wp_r00_shop_auto_266",
+          "pixel": [
+            1099,
+            730
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_016",
+          "clearance_m": 1.2836
+        },
+        {
+          "id": "wp_r00_shop_auto_267",
+          "pixel": [
+            1118,
+            1127
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_010",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_268",
+          "pixel": [
+            1121,
+            1079
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_011",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_269",
+          "pixel": [
+            1101,
+            874
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_014",
+          "clearance_m": 1.1252
+        },
+        {
+          "id": "wp_r00_shop_auto_270",
+          "pixel": [
+            742,
+            620
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_171",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_271",
+          "pixel": [
+            901,
+            456
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_078",
+          "clearance_m": 0.6843
+        },
+        {
+          "id": "wp_r00_shop_auto_272",
+          "pixel": [
+            877,
+            890
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_055",
+          "clearance_m": 1.5004
+        },
+        {
+          "id": "wp_r00_shop_auto_273",
+          "pixel": [
+            742,
+            885
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_067",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_274",
+          "pixel": [
+            918,
+            384
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_080",
+          "clearance_m": 0.4654
+        },
+        {
+          "id": "wp_r00_shop_auto_275",
+          "pixel": [
+            984,
+            112
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_211",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_276",
+          "pixel": [
+            742,
+            346
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_162",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_277",
+          "pixel": [
+            762,
+            1055
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_001",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_278",
+          "pixel": [
+            1134,
+            715
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_094",
+          "clearance_m": 0.7943
+        },
+        {
+          "id": "wp_r00_shop_auto_279",
+          "pixel": [
+            742,
+            925
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_066",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_280",
+          "pixel": [
+            742,
+            476
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_168",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_281",
+          "pixel": [
+            1041,
+            1042
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_025",
+          "clearance_m": 2.118
+        },
+        {
+          "id": "wp_r00_shop_auto_282",
+          "pixel": [
+            914,
+            206
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_196",
+          "clearance_m": 0.2573
+        },
+        {
+          "id": "wp_r00_shop_auto_283",
+          "pixel": [
+            878,
+            220
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_194",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_284",
+          "pixel": [
+            1065,
+            566
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_123",
+          "clearance_m": 1.1473
+        },
+        {
+          "id": "wp_r00_shop_auto_285",
+          "pixel": [
+            953,
+            716
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_087",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_286",
+          "pixel": [
+            947,
+            962
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_051",
+          "clearance_m": 3.0888
+        },
+        {
+          "id": "wp_r00_shop_auto_287",
+          "pixel": [
+            1112,
+            644
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_103",
+          "clearance_m": 0.8163
+        },
+        {
+          "id": "wp_r00_shop_auto_288",
+          "pixel": [
+            941,
+            780
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_088",
+          "clearance_m": 1.6326
+        },
+        {
+          "id": "wp_r00_shop_auto_289",
+          "pixel": [
+            1059,
+            1077
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_006",
+          "clearance_m": 1.3458
+        },
+        {
+          "id": "wp_r00_shop_auto_290",
+          "pixel": [
+            995,
+            393
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_148",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_291",
+          "pixel": [
+            986,
+            1008
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_038",
+          "clearance_m": 2.1703
+        },
+        {
+          "id": "wp_r00_shop_auto_292",
+          "pixel": [
+            1082,
+            939
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_030",
+          "clearance_m": 1.5444
+        },
+        {
+          "id": "wp_r00_shop_auto_293",
+          "pixel": [
+            1012,
+            472
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_116",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_294",
+          "pixel": [
+            1141,
+            1045
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_011",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_295",
+          "pixel": [
+            1019,
+            532
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_118",
+          "clearance_m": 1.3067
+        },
+        {
+          "id": "wp_r00_shop_auto_296",
+          "pixel": [
+            1046,
+            999
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_025",
+          "clearance_m": 2.3386
+        },
+        {
+          "id": "wp_r00_shop_auto_297",
+          "pixel": [
+            976,
+            576
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_121",
+          "clearance_m": 0.3089
+        },
+        {
+          "id": "wp_r00_shop_auto_298",
+          "pixel": [
+            997,
+            763
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_018",
+          "clearance_m": 1.3238
+        },
+        {
+          "id": "wp_r00_shop_auto_299",
+          "pixel": [
+            1092,
+            762
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_016",
+          "clearance_m": 1.3238
+        },
+        {
+          "id": "wp_r00_shop_auto_300",
+          "pixel": [
+            851,
+            935
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_056",
+          "clearance_m": 2.2278
+        },
+        {
+          "id": "wp_r00_shop_auto_301",
+          "pixel": [
+            875,
+            634
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_074",
+          "clearance_m": 0.5462
+        },
+        {
+          "id": "wp_r00_shop_auto_302",
+          "pixel": [
+            1101,
+            374
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_127",
+          "clearance_m": 0.2467
+        },
+        {
+          "id": "wp_r00_shop_auto_303",
+          "pixel": [
+            1141,
+            153
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_137",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_304",
+          "pixel": [
+            1023,
+            810
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_033",
+          "clearance_m": 2.387
+        },
+        {
+          "id": "wp_r00_shop_auto_305",
+          "pixel": [
+            868,
+            923
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_056",
+          "clearance_m": 2.0585
+        },
+        {
+          "id": "wp_r00_shop_auto_306",
+          "pixel": [
+            742,
+            395
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_165",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_307",
+          "pixel": [
+            815,
+            1001
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_041",
+          "clearance_m": 1.8533
+        },
+        {
+          "id": "wp_r00_shop_auto_308",
+          "pixel": [
+            997,
+            836
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_034",
+          "clearance_m": 2.9343
+        },
+        {
+          "id": "wp_r00_shop_auto_309",
+          "pixel": [
+            1149,
+            503
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_217",
+          "clearance_m": 0.2516
+        },
+        {
+          "id": "wp_r00_shop_auto_310",
+          "pixel": [
+            999,
+            560
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_121",
+          "clearance_m": 0.6619
+        },
+        {
+          "id": "wp_r00_shop_auto_311",
+          "pixel": [
+            1096,
+            840
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_014",
+          "clearance_m": 1.2355
+        },
+        {
+          "id": "wp_r00_shop_auto_312",
+          "pixel": [
+            910,
+            534
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_076",
+          "clearance_m": 1.0369
+        },
+        {
+          "id": "wp_r00_shop_auto_313",
+          "pixel": [
+            1139,
+            468
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_217",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_314",
+          "pixel": [
+            776,
+            885
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_067",
+          "clearance_m": 0.9928
+        },
+        {
+          "id": "wp_r00_shop_auto_315",
+          "pixel": [
+            759,
+            894
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_067",
+          "clearance_m": 0.6178
+        },
+        {
+          "id": "wp_r00_shop_auto_316",
+          "pixel": [
+            878,
+            298
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_155",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_317",
+          "pixel": [
+            1142,
+            650
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_100",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_318",
+          "pixel": [
+            1065,
+            474
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_113",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_319",
+          "pixel": [
+            811,
+            938
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_065",
+          "clearance_m": 1.765
+        },
+        {
+          "id": "wp_r00_shop_auto_320",
+          "pixel": [
+            1005,
+            1000
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_037",
+          "clearance_m": 2.4871
+        },
+        {
+          "id": "wp_r00_shop_auto_321",
+          "pixel": [
+            977,
+            1064
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_044",
+          "clearance_m": 0.9474
+        },
+        {
+          "id": "wp_r00_shop_auto_322",
+          "pixel": [
+            972,
+            1103
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_008",
+          "clearance_m": 0.2516
+        },
+        {
+          "id": "wp_r00_shop_auto_323",
+          "pixel": [
+            1052,
+            911
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_031",
+          "clearance_m": 2.2063
+        },
+        {
+          "id": "wp_r00_shop_auto_324",
+          "pixel": [
+            1085,
+            617
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_104",
+          "clearance_m": 0.2467
+        },
+        {
+          "id": "wp_r00_shop_auto_325",
+          "pixel": [
+            1117,
+            179
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_133",
+          "clearance_m": 0.2791
+        },
+        {
+          "id": "wp_r00_shop_auto_326",
+          "pixel": [
+            967,
+            894
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_052",
+          "clearance_m": 2.9244
+        },
+        {
+          "id": "wp_r00_shop_auto_327",
+          "pixel": [
+            1012,
+            1107
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_005",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_328",
+          "pixel": [
+            828,
+            1091
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_002",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_329",
+          "pixel": [
+            1138,
+            684
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_100",
+          "clearance_m": 0.6725
+        },
+        {
+          "id": "wp_r00_shop_auto_330",
+          "pixel": [
+            1125,
+            395
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_127",
+          "clearance_m": 0.5875
+        },
+        {
+          "id": "wp_r00_shop_auto_331",
+          "pixel": [
+            853,
+            349
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_158",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_332",
+          "pixel": [
+            768,
+            843
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_179",
+          "clearance_m": 0.5581
+        },
+        {
+          "id": "wp_r00_shop_auto_333",
+          "pixel": [
+            1031,
+            845
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_032",
+          "clearance_m": 2.6696
+        },
+        {
+          "id": "wp_r00_shop_auto_334",
+          "pixel": [
+            787,
+            990
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_042",
+          "clearance_m": 1.2355
+        },
+        {
+          "id": "wp_r00_shop_auto_335",
+          "pixel": [
+            1045,
+            374
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_147",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_336",
+          "pixel": [
+            893,
+            397
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_080",
+          "clearance_m": 0.6619
+        },
+        {
+          "id": "wp_r00_shop_auto_337",
+          "pixel": [
+            1140,
+            1066
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_011",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_338",
+          "pixel": [
+            1117,
+            492
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_097",
+          "clearance_m": 0.8139
+        },
+        {
+          "id": "wp_r00_shop_auto_339",
+          "pixel": [
+            786,
+            1025
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_041",
+          "clearance_m": 1.2134
+        },
+        {
+          "id": "wp_r00_shop_auto_340",
+          "pixel": [
+            958,
+            1075
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_004",
+          "clearance_m": 0.5961
+        },
+        {
+          "id": "wp_r00_shop_auto_341",
+          "pixel": [
+            1121,
+            285
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_130",
+          "clearance_m": 0.5313
+        },
+        {
+          "id": "wp_r00_shop_auto_342",
+          "pixel": [
+            878,
+            197
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_193",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_343",
+          "pixel": [
+            1007,
+            1037
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_043",
+          "clearance_m": 1.8093
+        },
+        {
+          "id": "wp_r00_shop_auto_344",
+          "pixel": [
+            985,
+            814
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_089",
+          "clearance_m": 2.449
+        },
+        {
+          "id": "wp_r00_shop_auto_345",
+          "pixel": [
+            742,
+            291
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_181",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_346",
+          "pixel": [
+            936,
+            816
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_021",
+          "clearance_m": 1.5352
+        },
+        {
+          "id": "wp_r00_shop_auto_347",
+          "pixel": [
+            1115,
+            790
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 0.8163
+        },
+        {
+          "id": "wp_r00_shop_auto_348",
+          "pixel": [
+            948,
+            1014
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_038",
+          "clearance_m": 1.9415
+        },
+        {
+          "id": "wp_r00_shop_auto_349",
+          "pixel": [
+            863,
+            123
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_190",
+          "clearance_m": 0.2345
+        },
+        {
+          "id": "wp_r00_shop_auto_350",
+          "pixel": [
+            1047,
+            1126
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_027",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_351",
+          "pixel": [
+            985,
+            1027
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_038",
+          "clearance_m": 1.7663
+        },
+        {
+          "id": "wp_r00_shop_auto_352",
+          "pixel": [
+            1115,
+            455
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_125",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_353",
+          "pixel": [
+            934,
+            101
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_209",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_354",
+          "pixel": [
+            877,
+            811
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_070",
+          "clearance_m": 0.2376
+        },
+        {
+          "id": "wp_r00_shop_auto_355",
+          "pixel": [
+            903,
+            85
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_207",
+          "clearance_m": 0.2582
+        },
+        {
+          "id": "wp_r00_shop_auto_356",
+          "pixel": [
+            893,
+            754
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_071",
+          "clearance_m": 0.5736
+        },
+        {
+          "id": "wp_r00_shop_auto_357",
+          "pixel": [
+            1081,
+            807
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 1.5665
+        },
+        {
+          "id": "wp_r00_shop_auto_358",
+          "pixel": [
+            1069,
+            1057
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_028",
+          "clearance_m": 1.7871
+        },
+        {
+          "id": "wp_r00_shop_auto_359",
+          "pixel": [
+            846,
+            1022
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_040",
+          "clearance_m": 1.765
+        },
+        {
+          "id": "wp_r00_shop_auto_360",
+          "pixel": [
+            893,
+            493
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_078",
+          "clearance_m": 0.6619
+        },
+        {
+          "id": "wp_r00_shop_auto_361",
+          "pixel": [
+            900,
+            969
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_061",
+          "clearance_m": 2.9343
+        },
+        {
+          "id": "wp_r00_shop_auto_362",
+          "pixel": [
+            876,
+            475
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_078",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r00_shop_auto_363",
+          "pixel": [
+            794,
+            959
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_065",
+          "clearance_m": 1.3899
+        },
+        {
+          "id": "wp_r00_shop_auto_364",
+          "pixel": [
+            756,
+            968
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_048",
+          "clearance_m": 0.5516
+        },
+        {
+          "id": "wp_r00_shop_auto_365",
+          "pixel": [
+            917,
+            1001
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_039",
+          "clearance_m": 2.2283
+        },
+        {
+          "id": "wp_r00_shop_auto_366",
+          "pixel": [
+            1031,
+            581
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_123",
+          "clearance_m": 0.5169
+        },
+        {
+          "id": "wp_r00_shop_auto_367",
+          "pixel": [
+            1122,
+            984
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_012",
+          "clearance_m": 0.6619
+        },
+        {
+          "id": "wp_r00_shop_auto_368",
+          "pixel": [
+            1023,
+            294
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_152",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_369",
+          "pixel": [
+            1004,
+            894
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_035",
+          "clearance_m": 3.2653
+        },
+        {
+          "id": "wp_r00_shop_auto_370",
+          "pixel": [
+            997,
+            800
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_089",
+          "clearance_m": 2.1401
+        },
+        {
+          "id": "wp_r00_shop_auto_371",
+          "pixel": [
+            1034,
+            760
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_033",
+          "clearance_m": 1.3915
+        },
+        {
+          "id": "wp_r00_shop_auto_372",
+          "pixel": [
+            903,
+            225
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_195",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_373",
+          "pixel": [
+            760,
+            915
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_066",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_374",
+          "pixel": [
+            1102,
+            471
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_098",
+          "clearance_m": 0.2467
+        },
+        {
+          "id": "wp_r00_shop_auto_375",
+          "pixel": [
+            1108,
+            854
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_014",
+          "clearance_m": 0.9708
+        },
+        {
+          "id": "wp_r00_shop_auto_376",
+          "pixel": [
+            1086,
+            671
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_102",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_377",
+          "pixel": [
+            1137,
+            591
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_095",
+          "clearance_m": 0.3751
+        },
+        {
+          "id": "wp_r00_shop_auto_378",
+          "pixel": [
+            876,
+            1091
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_003",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_379",
+          "pixel": [
+            1141,
+            258
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_131",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_380",
+          "pixel": [
+            1075,
+            957
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_030",
+          "clearance_m": 1.6988
+        },
+        {
+          "id": "wp_r00_shop_auto_381",
+          "pixel": [
+            969,
+            932
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_036",
+          "clearance_m": 3.5414
+        },
+        {
+          "id": "wp_r00_shop_auto_382",
+          "pixel": [
+            1102,
+            609
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_109",
+          "clearance_m": 0.6611
+        },
+        {
+          "id": "wp_r00_shop_auto_383",
+          "pixel": [
+            962,
+            562
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_120",
+          "clearance_m": 0.6178
+        },
+        {
+          "id": "wp_r00_shop_auto_384",
+          "pixel": [
+            912,
+            187
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_193",
+          "clearance_m": 0.2496
+        },
+        {
+          "id": "wp_r00_shop_auto_385",
+          "pixel": [
+            989,
+            1095
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_008",
+          "clearance_m": 0.6637
+        },
+        {
+          "id": "wp_r00_shop_auto_386",
+          "pixel": [
+            1013,
+            1070
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_043",
+          "clearance_m": 1.3954
+        },
+        {
+          "id": "wp_r00_shop_auto_387",
+          "pixel": [
+            992,
+            512
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_118",
+          "clearance_m": 1.1252
+        },
+        {
+          "id": "wp_r00_shop_auto_388",
+          "pixel": [
+            1158,
+            276
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_141",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_389",
+          "pixel": [
+            743,
+            373
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_163",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_390",
+          "pixel": [
+            1141,
+            295
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_130",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_391",
+          "pixel": [
+            1102,
+            1014
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_012",
+          "clearance_m": 1.1031
+        },
+        {
+          "id": "wp_r00_shop_auto_392",
+          "pixel": [
+            862,
+            1036
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_040",
+          "clearance_m": 1.4561
+        },
+        {
+          "id": "wp_r00_shop_auto_393",
+          "pixel": [
+            1106,
+            696
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_101",
+          "clearance_m": 0.8261
+        },
+        {
+          "id": "wp_r00_shop_auto_394",
+          "pixel": [
+            784,
+            852
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_069",
+          "clearance_m": 0.4859
+        },
+        {
+          "id": "wp_r00_shop_auto_395",
+          "pixel": [
+            1125,
+            578
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_095",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_396",
+          "pixel": [
+            924,
+            737
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_019",
+          "clearance_m": 0.9718
+        },
+        {
+          "id": "wp_r00_shop_auto_397",
+          "pixel": [
+            1002,
+            943
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_036",
+          "clearance_m": 3.3094
+        },
+        {
+          "id": "wp_r00_shop_auto_398",
+          "pixel": [
+            929,
+            1017
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_039",
+          "clearance_m": 1.8753
+        },
+        {
+          "id": "wp_r00_shop_auto_399",
+          "pixel": [
+            1081,
+            1116
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_027",
+          "clearance_m": 0.4854
+        },
+        {
+          "id": "wp_r00_shop_auto_400",
+          "pixel": [
+            968,
+            512
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_117",
+          "clearance_m": 1.1252
+        },
+        {
+          "id": "wp_r00_shop_auto_401",
+          "pixel": [
+            898,
+            713
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_019",
+          "clearance_m": 0.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_402",
+          "pixel": [
+            802,
+            847
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_069",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r00_shop_auto_403",
+          "pixel": [
+            1051,
+            837
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_032",
+          "clearance_m": 2.2283
+        },
+        {
+          "id": "wp_r00_shop_auto_404",
+          "pixel": [
+            890,
+            1048
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_045",
+          "clearance_m": 1.1914
+        },
+        {
+          "id": "wp_r00_shop_auto_405",
+          "pixel": [
+            899,
+            905
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_062",
+          "clearance_m": 2.0631
+        },
+        {
+          "id": "wp_r00_shop_auto_406",
+          "pixel": [
+            1035,
+            205
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_199",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_407",
+          "pixel": [
+            1125,
+            1038
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_011",
+          "clearance_m": 0.5957
+        },
+        {
+          "id": "wp_r00_shop_auto_408",
+          "pixel": [
+            742,
+            419
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_166",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_409",
+          "pixel": [
+            916,
+            447
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_081",
+          "clearance_m": 0.353
+        },
+        {
+          "id": "wp_r00_shop_auto_410",
+          "pixel": [
+            1159,
+            240
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_140",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_411",
+          "pixel": [
+            890,
+            117
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_190",
+          "clearance_m": 0.6022
+        },
+        {
+          "id": "wp_r00_shop_auto_412",
+          "pixel": [
+            1026,
+            948
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_024",
+          "clearance_m": 2.7799
+        },
+        {
+          "id": "wp_r00_shop_auto_413",
+          "pixel": [
+            1020,
+            100
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_216",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_414",
+          "pixel": [
+            1140,
+            220
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_139",
+          "clearance_m": 0.6619
+        },
+        {
+          "id": "wp_r00_shop_auto_415",
+          "pixel": [
+            874,
+            572
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_075",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_416",
+          "pixel": [
+            790,
+            628
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_174",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_417",
+          "pixel": [
+            1159,
+            183
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_138",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_418",
+          "pixel": [
+            928,
+            720
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_019",
+          "clearance_m": 0.6398
+        },
+        {
+          "id": "wp_r00_shop_auto_419",
+          "pixel": [
+            1114,
+            924
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_013",
+          "clearance_m": 0.8384
+        },
+        {
+          "id": "wp_r00_shop_auto_420",
+          "pixel": [
+            742,
+            760
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_177",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_421",
+          "pixel": [
+            799,
+            1053
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_047",
+          "clearance_m": 1.0811
+        },
+        {
+          "id": "wp_r00_shop_auto_422",
+          "pixel": [
+            763,
+            320
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_162",
+          "clearance_m": 0.2516
+        },
+        {
+          "id": "wp_r00_shop_auto_423",
+          "pixel": [
+            1070,
+            607
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_109",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_424",
+          "pixel": [
+            742,
+            824
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_179",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_425",
+          "pixel": [
+            953,
+            997
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_051",
+          "clearance_m": 2.3166
+        },
+        {
+          "id": "wp_r00_shop_auto_426",
+          "pixel": [
+            1080,
+            789
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_015",
+          "clearance_m": 1.5885
+        },
+        {
+          "id": "wp_r00_shop_auto_427",
+          "pixel": [
+            865,
+            906
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_056",
+          "clearance_m": 1.6839
+        },
+        {
+          "id": "wp_r00_shop_auto_428",
+          "pixel": [
+            1116,
+            318
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_130",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_429",
+          "pixel": [
+            1070,
+            205
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_201",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_430",
+          "pixel": [
+            1116,
+            348
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_128",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r00_shop_auto_431",
+          "pixel": [
+            741,
+            113
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_185",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_432",
+          "pixel": [
+            765,
+            1092
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_001",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_433",
+          "pixel": [
+            1023,
+            695
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_090",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_434",
+          "pixel": [
+            758,
+            239
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_182",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_435",
+          "pixel": [
+            953,
+            373
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_149",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_436",
+          "pixel": [
+            938,
+            687
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_086",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_437",
+          "pixel": [
+            758,
+            186
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_183",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_438",
+          "pixel": [
+            741,
+            778
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_178",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_439",
+          "pixel": [
+            926,
+            1092
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_004",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_440",
+          "pixel": [
+            758,
+            220
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_183",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_441",
+          "pixel": [
+            741,
+            655
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_172",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_442",
+          "pixel": [
+            877,
+            280
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_155",
+          "clearance_m": 0.2206
+        },
+        {
+          "id": "wp_r00_shop_auto_443",
+          "pixel": [
+            787,
+            80
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_187",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_444",
+          "pixel": [
+            1013,
+            583
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_122",
+          "clearance_m": 0.2034
+        },
+        {
+          "id": "wp_r00_shop_auto_445",
+          "pixel": [
+            957,
+            1093
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_004",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_446",
+          "pixel": [
+            1161,
+            121
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_136",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_447",
+          "pixel": [
+            1042,
+            188
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_201",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_448",
+          "pixel": [
+            876,
+            749
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_071",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_449",
+          "pixel": [
+            1064,
+            188
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_201",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_450",
+          "pixel": [
+            836,
+            115
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_188",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_451",
+          "pixel": [
+            1161,
+            378
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_143",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_452",
+          "pixel": [
+            759,
+            580
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_170",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_453",
+          "pixel": [
+            759,
+            548
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_170",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_454",
+          "pixel": [
+            759,
+            168
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_184",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_455",
+          "pixel": [
+            1145,
+            625
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_099",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_456",
+          "pixel": [
+            911,
+            366
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_080",
+          "clearance_m": 0.1898
+        },
+        {
+          "id": "wp_r00_shop_auto_457",
+          "pixel": [
+            759,
+            287
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_180",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r00_shop_auto_458",
+          "pixel": [
+            1100,
+            187
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_200",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_459",
+          "pixel": [
+            739,
+            706
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_175",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_460",
+          "pixel": [
+            1162,
+            331
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_142",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_461",
+          "pixel": [
+            1162,
+            201
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_139",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_462",
+          "pixel": [
+            1079,
+            116
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_213",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_463",
+          "pixel": [
+            944,
+            591
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_084",
+          "clearance_m": 0.1723
+        },
+        {
+          "id": "wp_r00_shop_auto_464",
+          "pixel": [
+            1049,
+            298
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_151",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_465",
+          "pixel": [
+            739,
+            139
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_185",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_466",
+          "pixel": [
+            866,
+            619
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_074",
+          "clearance_m": 0.1779
+        },
+        {
+          "id": "wp_r00_shop_auto_467",
+          "pixel": [
+            992,
+            1130
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_008",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_468",
+          "pixel": [
+            1102,
+            116
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_214",
+          "clearance_m": 0.1779
+        },
+        {
+          "id": "wp_r00_shop_auto_469",
+          "pixel": [
+            940,
+            636
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_085",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_470",
+          "pixel": [
+            1162,
+            147
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_137",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_471",
+          "pixel": [
+            945,
+            298
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_204",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_472",
+          "pixel": [
+            1080,
+            396
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_145",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_473",
+          "pixel": [
+            980,
+            208
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_197",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_474",
+          "pixel": [
+            845,
+            1094
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_003",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_475",
+          "pixel": [
+            923,
+            298
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_154",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_476",
+          "pixel": [
+            871,
+            511
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_077",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r00_shop_auto_477",
+          "pixel": [
+            1015,
+            117
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_211",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_478",
+          "pixel": [
+            1028,
+            1131
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_026",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_479",
+          "pixel": [
+            761,
+            510
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_169",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_480",
+          "pixel": [
+            800,
+            1095
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_002",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_481",
+          "pixel": [
+            1057,
+            117
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_212",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_482",
+          "pixel": [
+            874,
+            246
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_195",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_483",
+          "pixel": [
+            1034,
+            397
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_147",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_484",
+          "pixel": [
+            761,
+            788
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_178",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_485",
+          "pixel": [
+            1145,
+            1102
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_010",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_486",
+          "pixel": [
+            945,
+            186
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_203",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_487",
+          "pixel": [
+            936,
+            209
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_196",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_488",
+          "pixel": [
+            1005,
+            186
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_202",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_489",
+          "pixel": [
+            978,
+            397
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_149",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r00_shop_auto_490",
+          "pixel": [
+            967,
+            300
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_204",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_491",
+          "pixel": [
+            1146,
+            1132
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_010",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_492",
+          "pixel": [
+            737,
+            246
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_182",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_493",
+          "pixel": [
+            981,
+            95
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_210",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_494",
+          "pixel": [
+            762,
+            680
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_173",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_495",
+          "pixel": [
+            737,
+            194
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_183",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_496",
+          "pixel": [
+            1111,
+            147
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_134",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_497",
+          "pixel": [
+            737,
+            212
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_183",
+          "clearance_m": 0.1324
+        },
+        {
+          "id": "wp_r00_shop_auto_498",
+          "pixel": [
+            788,
+            650
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_shop_174",
+          "clearance_m": 0.1248
         }
       ]
     },
@@ -1711,6 +6691,306 @@
             1283,
             488
           ]
+        },
+        {
+          "id": "wp_r01_office_auto_001",
+          "pixel": [
+            1315,
+            478
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_015",
+          "clearance_m": 0.3751
+        },
+        {
+          "id": "wp_r01_office_auto_002",
+          "pixel": [
+            1268,
+            583
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_009",
+          "clearance_m": 0.2729
+        },
+        {
+          "id": "wp_r01_office_auto_003",
+          "pixel": [
+            1322,
+            599
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_008",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r01_office_auto_004",
+          "pixel": [
+            1322,
+            573
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_009",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r01_office_auto_005",
+          "pixel": [
+            1325,
+            685
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_006",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r01_office_auto_006",
+          "pixel": [
+            1324,
+            648
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_006",
+          "clearance_m": 0.2467
+        },
+        {
+          "id": "wp_r01_office_auto_007",
+          "pixel": [
+            1323,
+            623
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_007",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r01_office_auto_008",
+          "pixel": [
+            1323,
+            500
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_012",
+          "clearance_m": 0.2467
+        },
+        {
+          "id": "wp_r01_office_auto_009",
+          "pixel": [
+            1189,
+            672
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_002",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r01_office_auto_010",
+          "pixel": [
+            1323,
+            524
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_011",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r01_office_auto_011",
+          "pixel": [
+            1322,
+            545
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_010",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r01_office_auto_012",
+          "pixel": [
+            1296,
+            473
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_015",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r01_office_auto_013",
+          "pixel": [
+            1293,
+            653
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_007",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r01_office_auto_014",
+          "pixel": [
+            1302,
+            493
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_015",
+          "clearance_m": 0.6552
+        },
+        {
+          "id": "wp_r01_office_auto_015",
+          "pixel": [
+            1273,
+            472
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_015",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r01_office_auto_016",
+          "pixel": [
+            1249,
+            498
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_013",
+          "clearance_m": 0.2648
+        },
+        {
+          "id": "wp_r01_office_auto_017",
+          "pixel": [
+            1227,
+            674
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_002",
+          "clearance_m": 0.2868
+        },
+        {
+          "id": "wp_r01_office_auto_018",
+          "pixel": [
+            1289,
+            599
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_008",
+          "clearance_m": 0.2467
+        },
+        {
+          "id": "wp_r01_office_auto_019",
+          "pixel": [
+            1288,
+            505
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_015",
+          "clearance_m": 0.2516
+        },
+        {
+          "id": "wp_r01_office_auto_020",
+          "pixel": [
+            1307,
+            685
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_005",
+          "clearance_m": 0.2427
+        },
+        {
+          "id": "wp_r01_office_auto_021",
+          "pixel": [
+            1285,
+            579
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_009",
+          "clearance_m": 0.225
+        },
+        {
+          "id": "wp_r01_office_auto_022",
+          "pixel": [
+            1190,
+            483
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_001",
+          "clearance_m": 0.225
+        },
+        {
+          "id": "wp_r01_office_auto_023",
+          "pixel": [
+            1217,
+            482
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_013",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r01_office_auto_024",
+          "pixel": [
+            1220,
+            501
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_001",
+          "clearance_m": 0.1986
+        },
+        {
+          "id": "wp_r01_office_auto_025",
+          "pixel": [
+            1289,
+            524
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_011",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r01_office_auto_026",
+          "pixel": [
+            1328,
+            666
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_006",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r01_office_auto_027",
+          "pixel": [
+            1251,
+            480
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_014",
+          "clearance_m": 0.1779
+        },
+        {
+          "id": "wp_r01_office_auto_028",
+          "pixel": [
+            1289,
+            625
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_008",
+          "clearance_m": 0.1765
+        },
+        {
+          "id": "wp_r01_office_auto_029",
+          "pixel": [
+            1194,
+            689
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_002",
+          "clearance_m": 0.1544
+        },
+        {
+          "id": "wp_r01_office_auto_030",
+          "pixel": [
+            1286,
+            689
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_005",
+          "clearance_m": 0.1544
         }
       ]
     }

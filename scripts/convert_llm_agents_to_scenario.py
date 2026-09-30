@@ -8,6 +8,7 @@ from pathlib import Path
 import yaml
 
 from generate_scenario_from_llm import (
+    AVAILABLE_AGENT_MODELS,
     DEFAULT_BEHAVIOR_TREE,
     DEFAULT_DESIRED_VELOCITY,
     DEFAULT_MODEL,
@@ -53,7 +54,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--default-model",
         default=DEFAULT_MODEL,
-        help=f"Model used when an agent does not specify one. Default: {DEFAULT_MODEL}.",
+        choices=AVAILABLE_AGENT_MODELS,
+        help=(
+            "Occupation category used when an agent does not specify model. "
+            f"Default: {DEFAULT_MODEL}."
+        ),
     )
     parser.add_argument(
         "--default-velocity",

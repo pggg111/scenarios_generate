@@ -100,6 +100,11 @@ new_outputs/<scene_id>/manual_scenario_preview.png
 
 自动生成依赖 LLM 配置。先复制配置模板：
 
+LLM 为每个行人的 `model` 输出职业类别，而不是具体人物资产。允许的值为
+`pedestrian`、`doctor`、`police`、`construction_worker`。每个 scenario 中
+`doctor` 最多 2 人，`police` 和 `construction_worker` 各最多 4 人，
+`pedestrian` 不限；具体人物资产由下层系统分配。
+
 ```bash
 cp configs/llm_config.example.yaml configs/llm_config.local.yaml
 ```
@@ -134,6 +139,62 @@ new_outputs/<scene_id>/
 ├── scenario_002/
 └── scenarios_overview.png
 ```
+
+默认每次 LLM 调用批量返回 10 个 scenario；最后不足 10 个时只请求实际剩余数量。
+控制台会显示每批的 input、output、reasoning、cached、total token 和平均到每条
+scenario 的 token。平均值只是统计估算，API 只能返回整批的准确用量。如果发生
+重试，重试消耗也会计入该批。全部候选完成后还会输出
+`TOTAL TOKENS THIS RUN`。这些统计只显示在控制台，不会写入 scenario YAML；
+已存在且未重新生成的 scenario 本次计为 0。需要恢复旧的一次一条模式时添加
+`--batch-size 1`。
+
+### 固定生成 10,000 条数据
+
+`scripts/generate_scenario_dataset.py` 固定保存了当前 30 个 dense waypoint 场景的
+大小分类和 10,000 条配额，不会在运行时重新计算：
+
+- 小场景：1–5 人。
+- 中场景：1–8 人。
+- 大场景：1–10 人。
+
+数据集入口固定使用 `--batch-size 10`，所以图片、waypoint 和场景说明在一批内
+只发送一次。比如某个场景需要 278 条，会发出 27 个十条批次和 1 个八条批次。
+每批必须完整通过人数、职业、路线和重复检查；无效时整批重试。
+
+每个场景中的人数按固定随机种子均衡排列，因此断点续跑和单独运行某个场景时，
+相同的 scenario 编号仍会得到相同的目标人数。运行全部数据：
+
+```bash
+python3 scripts/generate_scenario_dataset.py \
+  --scenes-root new_grscenes \
+  --output-root new_outputs \
+  --llm-config configs/gpt6.local.yaml \
+  --prompt "生成自然、合理并且多样化的人机交互场景"
+```
+
+先查看固定配额而不调用 API：
+
+```bash
+python3 scripts/generate_scenario_dataset.py \
+  --llm-config configs/gpt6.local.yaml \
+  --prompt test \
+  --dry-run
+```
+
+10,000 条数据默认只生成 JSON 和 YAML，不生成预览。使用
+`--only-scene <scene_id>` 可以只生成固定计划中的某个场景。程序会跳过已存在且有效的
+结果，并在最后输出跨全部场景的 token 总计。
+
+全部数据生成完成后，可以在不配置 LLM、也不调用 API 的情况下离线生成每条独立预览：
+
+```bash
+python3 scripts/render_dataset_previews.py \
+  --scenes-root new_grscenes \
+  --output-root new_outputs_10k
+```
+
+已有预览会被跳过；需要重画时添加 `--overwrite`。这个命令只生成各 scenario 目录内的
+`scenario_preview.png`，不会拼接总览图。
 
 ## 标注 / 更新 waypoint
 

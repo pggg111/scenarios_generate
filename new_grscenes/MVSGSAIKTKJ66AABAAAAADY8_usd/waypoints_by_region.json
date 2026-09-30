@@ -445,6 +445,16 @@
             385,
             244
           ]
+        },
+        {
+          "id": "wp_r01_office_auto_001",
+          "pixel": [
+            391,
+            276
+          ],
+          "generated": true,
+          "connected_to": "wp_r01_office_001",
+          "clearance_m": 0.1545
         }
       ]
     },
@@ -793,6 +803,26 @@
             418,
             337
           ]
+        },
+        {
+          "id": "wp_r03_waiting_area_auto_001",
+          "pixel": [
+            418,
+            277
+          ],
+          "generated": true,
+          "connected_to": "wp_r03_waiting_area_041",
+          "clearance_m": 0.1854
+        },
+        {
+          "id": "wp_r03_waiting_area_auto_002",
+          "pixel": [
+            406,
+            453
+          ],
+          "generated": true,
+          "connected_to": "wp_r03_waiting_area_007",
+          "clearance_m": 0.1274
         }
       ]
     }

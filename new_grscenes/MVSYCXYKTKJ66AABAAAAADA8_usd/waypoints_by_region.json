@@ -617,6 +617,46 @@
             520,
             339
           ]
+        },
+        {
+          "id": "wp_r00_dining_room_auto_001",
+          "pixel": [
+            213,
+            308
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_dining_room_007",
+          "clearance_m": 0.4892
+        },
+        {
+          "id": "wp_r00_dining_room_auto_002",
+          "pixel": [
+            337,
+            347
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_dining_room_040",
+          "clearance_m": 0.5337
+        },
+        {
+          "id": "wp_r00_dining_room_auto_003",
+          "pixel": [
+            389,
+            370
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_dining_room_074",
+          "clearance_m": 0.4892
+        },
+        {
+          "id": "wp_r00_dining_room_auto_004",
+          "pixel": [
+            293,
+            312
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_dining_room_054",
+          "clearance_m": 0.1468
         }
       ]
     }

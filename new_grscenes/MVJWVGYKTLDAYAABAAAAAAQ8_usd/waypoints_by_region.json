@@ -412,6 +412,956 @@
             356,
             701
           ]
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_001",
+          "pixel": [
+            95,
+            701
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_003",
+          "clearance_m": 0.2967
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_002",
+          "pixel": [
+            553,
+            726
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_011",
+          "clearance_m": 0.3215
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_003",
+          "pixel": [
+            162,
+            713
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_004",
+          "clearance_m": 0.2819
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_004",
+          "pixel": [
+            164,
+            653
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_001",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_005",
+          "pixel": [
+            554,
+            678
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_012",
+          "clearance_m": 0.272
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_006",
+          "pixel": [
+            252,
+            638
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_020",
+          "clearance_m": 0.272
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_007",
+          "pixel": [
+            474,
+            676
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_013",
+          "clearance_m": 0.272
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_008",
+          "pixel": [
+            426,
+            745
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_032",
+          "clearance_m": 0.272
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_009",
+          "pixel": [
+            289,
+            710
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_030",
+          "clearance_m": 1.1375
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_010",
+          "pixel": [
+            266,
+            728
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_042",
+          "clearance_m": 0.6924
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_011",
+          "pixel": [
+            357,
+            746
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_031",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_012",
+          "pixel": [
+            216,
+            746
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_029",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_013",
+          "pixel": [
+            470,
+            702
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_008",
+          "clearance_m": 0.9149
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_014",
+          "pixel": [
+            523,
+            679
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_013",
+          "clearance_m": 0.2765
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_015",
+          "pixel": [
+            478,
+            746
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_033",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_016",
+          "pixel": [
+            393,
+            714
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_007",
+          "clearance_m": 1.0386
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_017",
+          "pixel": [
+            446,
+            663
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_014",
+          "clearance_m": 0.456
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_018",
+          "pixel": [
+            365,
+            663
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_016",
+          "clearance_m": 0.2629
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_019",
+          "pixel": [
+            210,
+            724
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_021",
+          "clearance_m": 0.7913
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_020",
+          "pixel": [
+            115,
+            690
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_002",
+          "clearance_m": 0.2629
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_021",
+          "pixel": [
+            338,
+            715
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_047",
+          "clearance_m": 1.0138
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_022",
+          "pixel": [
+            304,
+            687
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_024",
+          "clearance_m": 1.549
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_023",
+          "pixel": [
+            390,
+            665
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_016",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_024",
+          "pixel": [
+            379,
+            743
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_032",
+          "clearance_m": 0.3215
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_025",
+          "pixel": [
+            311,
+            727
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_030",
+          "clearance_m": 0.7171
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_026",
+          "pixel": [
+            247,
+            716
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_005",
+          "clearance_m": 0.9891
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_027",
+          "pixel": [
+            419,
+            694
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_036",
+          "clearance_m": 1.1072
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_028",
+          "pixel": [
+            333,
+            692
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_017",
+          "clearance_m": 1.3293
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_029",
+          "pixel": [
+            139,
+            716
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_002",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_030",
+          "pixel": [
+            327,
+            649
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_027",
+          "clearance_m": 0.544
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_031",
+          "pixel": [
+            556,
+            701
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_012",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_032",
+          "pixel": [
+            501,
+            707
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_010",
+          "clearance_m": 1.0237
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_033",
+          "pixel": [
+            210,
+            684
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_044",
+          "clearance_m": 0.7277
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_034",
+          "pixel": [
+            255,
+            658
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_041",
+          "clearance_m": 0.7666
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_035",
+          "pixel": [
+            163,
+            692
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_001",
+          "clearance_m": 0.7974
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_036",
+          "pixel": [
+            441,
+            706
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_015",
+          "clearance_m": 1.2364
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_037",
+          "pixel": [
+            274,
+            746
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_030",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_038",
+          "pixel": [
+            376,
+            703
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_007",
+          "clearance_m": 1.1869
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_039",
+          "pixel": [
+            313,
+            746
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_031",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_040",
+          "pixel": [
+            178,
+            723
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_028",
+          "clearance_m": 0.391
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_041",
+          "pixel": [
+            459,
+            621
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_040",
+          "clearance_m": 0.2448
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_042",
+          "pixel": [
+            230,
+            687
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_043",
+          "clearance_m": 1.0041
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_043",
+          "pixel": [
+            308,
+            653
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_026",
+          "clearance_m": 0.7302
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_044",
+          "pixel": [
+            266,
+            673
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_023",
+          "clearance_m": 1.159
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_045",
+          "pixel": [
+            437,
+            729
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_008",
+          "clearance_m": 0.6676
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_046",
+          "pixel": [
+            353,
+            728
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_007",
+          "clearance_m": 0.6924
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_047",
+          "pixel": [
+            517,
+            697
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_011",
+          "clearance_m": 0.7439
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_048",
+          "pixel": [
+            534,
+            730
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_011",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_049",
+          "pixel": [
+            174,
+            747
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_028",
+          "clearance_m": 0.2225
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_050",
+          "pixel": [
+            245,
+            698
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_042",
+          "clearance_m": 1.4342
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_051",
+          "pixel": [
+            256,
+            746
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_029",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_052",
+          "pixel": [
+            228,
+            724
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_029",
+          "clearance_m": 0.7913
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_053",
+          "pixel": [
+            234,
+            637
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_020",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_054",
+          "pixel": [
+            470,
+            730
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_008",
+          "clearance_m": 0.6429
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_055",
+          "pixel": [
+            503,
+            724
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_009",
+          "clearance_m": 0.6928
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_056",
+          "pixel": [
+            415,
+            643
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_039",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_057",
+          "pixel": [
+            301,
+            670
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_019",
+          "clearance_m": 1.1833
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_058",
+          "pixel": [
+            121,
+            674
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_046",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_059",
+          "pixel": [
+            164,
+            671
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_022",
+          "clearance_m": 0.5767
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_060",
+          "pixel": [
+            189,
+            665
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_044",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_061",
+          "pixel": [
+            358,
+            684
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_047",
+          "clearance_m": 0.7963
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_062",
+          "pixel": [
+            194,
+            688
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_021",
+          "clearance_m": 0.816
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_063",
+          "pixel": [
+            408,
+            707
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_035",
+          "clearance_m": 1.2117
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_064",
+          "pixel": [
+            486,
+            698
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_013",
+          "clearance_m": 0.816
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_065",
+          "pixel": [
+            518,
+            734
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_034",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_066",
+          "pixel": [
+            416,
+            731
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_035",
+          "clearance_m": 0.6182
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_067",
+          "pixel": [
+            539,
+            685
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_012",
+          "clearance_m": 0.3956
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_068",
+          "pixel": [
+            124,
+            705
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_003",
+          "clearance_m": 0.5193
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_069",
+          "pixel": [
+            296,
+            642
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_026",
+          "clearance_m": 0.6676
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_070",
+          "pixel": [
+            268,
+            639
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_041",
+          "clearance_m": 0.4025
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_071",
+          "pixel": [
+            175,
+            703
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_004",
+          "clearance_m": 0.6528
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_072",
+          "pixel": [
+            429,
+            674
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_038",
+          "clearance_m": 0.8919
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_073",
+          "pixel": [
+            149,
+            657
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_045",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_074",
+          "pixel": [
+            274,
+            714
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_042",
+          "clearance_m": 1.0386
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_075",
+          "pixel": [
+            386,
+            728
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_007",
+          "clearance_m": 0.6924
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_076",
+          "pixel": [
+            297,
+            625
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_025",
+          "clearance_m": 0.2473
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_077",
+          "pixel": [
+            458,
+            673
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_014",
+          "clearance_m": 0.3497
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_078",
+          "pixel": [
+            151,
+            702
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_002",
+          "clearance_m": 0.549
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_079",
+          "pixel": [
+            542,
+            715
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_012",
+          "clearance_m": 0.5935
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_080",
+          "pixel": [
+            272,
+            620
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_025",
+          "clearance_m": 0.2225
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_081",
+          "pixel": [
+            336,
+            636
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_027",
+          "clearance_m": 0.2225
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_082",
+          "pixel": [
+            490,
+            673
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_013",
+          "clearance_m": 0.1978
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_083",
+          "pixel": [
+            508,
+            673
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_013",
+          "clearance_m": 0.1978
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_084",
+          "pixel": [
+            357,
+            634
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_027",
+          "clearance_m": 0.1731
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_085",
+          "pixel": [
+            341,
+            749
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_031",
+          "clearance_m": 0.1731
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_086",
+          "pixel": [
+            410,
+            749
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_032",
+          "clearance_m": 0.1731
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_087",
+          "pixel": [
+            103,
+            715
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_003",
+          "clearance_m": 0.1731
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_088",
+          "pixel": [
+            312,
+            617
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_026",
+          "clearance_m": 0.1484
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_089",
+          "pixel": [
+            404,
+            656
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_037",
+          "clearance_m": 0.1442
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_090",
+          "pixel": [
+            219,
+            633
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_020",
+          "clearance_m": 0.1484
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_091",
+          "pixel": [
+            231,
+            750
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_029",
+          "clearance_m": 0.1484
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_092",
+          "pixel": [
+            201,
+            750
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_028",
+          "clearance_m": 0.1484
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_093",
+          "pixel": [
+            517,
+            751
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_034",
+          "clearance_m": 0.1236
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_094",
+          "pixel": [
+            393,
+            751
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_032",
+          "clearance_m": 0.1236
+        },
+        {
+          "id": "wp_r00_waiting_area_auto_095",
+          "pixel": [
+            459,
+            653
+          ],
+          "generated": true,
+          "connected_to": "wp_r00_waiting_area_040",
+          "clearance_m": 0.1236
         }
       ]
     }

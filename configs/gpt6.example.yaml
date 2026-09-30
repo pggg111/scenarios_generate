@@ -1,13 +1,12 @@
 type: gemini
-name: gpt_5_4_api
+name: gpt_6_astra_api
 provider: DMXAPI
-display_name: GPT-5.4 API (Indoor Scene)
-model_path: gpt-5.4
+display_name: GPT-6 Astra API (Indoor Scene)
+model_path: gpt-6-astra
 api_base_url_env: DMX_BASE_URL
 api_key_env: DMX_API_KEY
-model_id: gpt-5.4
+model_id: gpt-6-astra
 user_id: ""
-temperature: 0.6
+temperature: 0
 timeout: 600
 max_output_tokens: 32768
-

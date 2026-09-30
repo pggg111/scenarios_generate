@@ -17,30 +17,21 @@ import yaml
 
 
 DEFAULT_BEHAVIOR_TREE = "BTRegularNav.xml"
-DEFAULT_MODEL = "female_adult_business_02"
+DEFAULT_MODEL = "pedestrian"
 DEFAULT_VELOCITY = 0.8
 DEFAULT_DESIRED_VELOCITY = 1.0
-AVAILABLE_CHARACTER_MODELS = [
-    "F_Business_02",
-    "F_Medical_01",
-    "M_Medical_01",
-    "biped_demo_meters",
-    "female_adult_business_02",
-    "female_adult_medical_01",
-    "female_adult_police_01",
-    "female_adult_police_01_new",
-    "female_adult_police_02",
-    "female_adult_police_03",
-    "female_adult_police_03_new",
-    "male_adult_construction_01",
-    "male_adult_construction_01_new",
-    "male_adult_construction_02",
-    "male_adult_construction_03",
-    "male_adult_construction_05",
-    "male_adult_construction_05_new",
-    "male_adult_medical_01",
-    "male_adult_police_04",
-]
+AVAILABLE_AGENT_MODELS = (
+    "pedestrian",
+    "doctor",
+    "police",
+    "construction_worker",
+)
+AGENT_MODEL_LIMITS = {
+    "doctor": 2,
+    "police": 4,
+    "construction_worker": 4,
+}
+TOKEN_USAGE_PREFIX = "TOKEN_USAGE "
 
 
 class ScenarioYamlDumper(yaml.SafeDumper):
@@ -53,6 +44,32 @@ def represent_list(dumper: yaml.Dumper, data: list[Any]) -> yaml.SequenceNode:
 
 
 ScenarioYamlDumper.add_representer(list, represent_list)
+
+
+@dataclass(frozen=True)
+class TokenUsage:
+    input_tokens: int = 0
+    output_tokens: int = 0
+    reasoning_tokens: int = 0
+    cached_tokens: int = 0
+    total_tokens: int = 0
+    reported: bool = False
+
+    def to_dict(self) -> dict[str, int | bool]:
+        return {
+            "input_tokens": self.input_tokens,
+            "output_tokens": self.output_tokens,
+            "reasoning_tokens": self.reasoning_tokens,
+            "cached_tokens": self.cached_tokens,
+            "total_tokens": self.total_tokens,
+            "reported": self.reported,
+        }
+
+
+@dataclass(frozen=True)
+class LLMCallResult:
+    data: Any
+    usage: TokenUsage
 
 
 @dataclass(frozen=True)
@@ -157,7 +174,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--default-model",
         default=DEFAULT_MODEL,
-        help=f"Model used when an agent does not specify one. Default: {DEFAULT_MODEL}.",
+        choices=AVAILABLE_AGENT_MODELS,
+        help=(
+            "Occupation category used when an agent does not specify model. "
+            f"Default: {DEFAULT_MODEL}."
+        ),
     )
     parser.add_argument(
         "--default-velocity",
@@ -340,8 +361,13 @@ def transition_waypoint_ids(waypoint_context: dict[str, Any]) -> set[str]:
     return waypoint_ids
 
 
-def format_character_models_for_prompt(models: list[str]) -> str:
-    return "\n".join(f"- {model}" for model in models)
+def format_agent_models_for_prompt(models: tuple[str, ...]) -> str:
+    lines: list[str] = []
+    for model in models:
+        limit = AGENT_MODEL_LIMITS.get(model)
+        suffix = "（数量不限）" if limit is None else f"（每个 scenario 最多 {limit} 人）"
+        lines.append(f"- {model}{suffix}")
+    return "\n".join(lines)
 
 
 def read_prompt(args: argparse.Namespace) -> str:
@@ -369,10 +395,11 @@ def build_llm_prompt(
     scene_prompt: str,
     user_prompt: str,
     robot_intermediate_waypoints: bool = False,
+    batch_agent_counts: list[int] | None = None,
 ) -> str:
     waypoint_context = load_waypoint_context(scene_dir)
     waypoint_text = json.dumps(waypoint_context, ensure_ascii=False, indent=2)
-    character_models_text = format_character_models_for_prompt(AVAILABLE_CHARACTER_MODELS)
+    agent_models_text = format_agent_models_for_prompt(AVAILABLE_AGENT_MODELS)
     if robot_intermediate_waypoints:
         robot_waypoint_rule = (
             "- 机器人使用 start_waypoint 作为起点 waypoint id；waypoints 是后续按移动顺序排列的中间点和终点 waypoint id，"
@@ -411,6 +438,41 @@ def build_llm_prompt(
     "behavior": "brief robot navigation purpose"
   }"""
 
+    scenario_schema = f"""{{
+  "agents": [
+    {{
+      "name": "hunav_1",
+      "role": "short semantic role",
+      "model": "pedestrian",
+      "from_region": {{"region_id": 0, "label": "waiting_area"}},
+      "to_region": {{"region_id": 6, "label": "consultation_room"}},
+      "spawn_waypoint": "wp_r00_waiting_area_001",
+      "waypoints": ["wp_r00_waiting_area_002", "wp_r00_waiting_area_003"],
+      "velocity": 0.8,
+      "desired_velocity": 1.0,
+      "behavior": "brief explanation"
+    }}
+  ],
+  {robot_schema}
+}}"""
+    if batch_agent_counts:
+        count_lines = "\n".join(
+            f"  - scenarios[{index}] 必须恰好包含 {count} 个 agents。"
+            for index, count in enumerate(batch_agent_counts)
+        )
+        output_requirement = f"""- 顶层必须是只包含 scenarios 数组的 JSON 对象。
+- scenarios 必须恰好包含 {len(batch_agent_counts)} 个相互独立的 scenario，顺序不得改变。
+{count_lines}
+- scenarios 数组中的每一项都必须包含 agents 和 robot。"""
+        output_schema = f"""{{
+  "scenarios": [
+    {scenario_schema}
+  ]
+}}"""
+    else:
+        output_requirement = "- 输出必须包含 agents 和 robot。"
+        output_schema = scenario_schema
+
     return f"""你是室内行人和机器人轨迹生成器。请根据图片、用户需求、region 范围和候选 waypoint 列表生成完整场景轨迹，只返回合法 JSON。
 
 图片说明：
@@ -439,38 +501,26 @@ def build_llm_prompt(
 - 如果没有对应 region_transitions，才根据图像和连接图选择最合理的门两侧 waypoint。
 - 多个行人分别生成独立 agent，命名为 hunav_1、hunav_2、hunav_3等。
 {robot_behavior_rules}
+- 机器人 start_waypoint 与最终目标 waypoint 之间的世界坐标直线距离应至少为 5 米；请选择在俯视图上明显分离的起点和终点，不要选择彼此接近的 waypoint。
 - 必须输出一个 robot 对象；机器人对象的 name 必须是 "robot"；如果用户没有明确机器人数量，默认只生成 1 条机器人路径。
 - 场景专用规则、区域连通规则、region_transitions 和 navmesh 约束同时适用于行人和机器人。
 - role 和 behavior 简短英文即可；behavior 不要包含坐标细节。
-- model 字段必须从下面的可选人物模型列表中选择，不要生成列表外的模型名。
+- model 字段现在表示行人的职业类别，不是具体人物资产；具体人物模型由下层系统决定。
+- model 只能是 pedestrian、doctor、police、construction_worker 之一，必须使用完全一致的小写英文值。
+- 同一个 scenario 中 doctor 最多 2 人，police 最多 4 人，construction_worker 最多 4 人；pedestrian 数量不限。若人数超过某个职业上限，必须改用其他合法类别，不能突破上限。
 - velocity 使用 0.6 到 1.2；desired_velocity 使用 0.8 到 1.5，且通常大于或等于 velocity。
 - 尽量不要让行人会在同一时间走入同一个 waypoint，除非语义上需要交互、碰面、错身而过等，可以选取相邻waypoint表示这一语义。
 
 输出要求：
 - 只返回合法 JSON，不要 Markdown，不要解释。
 - 不要输出任何像素坐标。
-- 输出必须包含 agents 和 robot，符合下面的 JSON schema：
+- 符合下面的 JSON schema：
+{output_requirement}
 
-{{
-  "agents": [
-    {{
-      "name": "hunav_1",
-      "role": "short semantic role",
-      "model": "female_adult_business_02",
-      "from_region": {{"region_id": 0, "label": "waiting_area"}},
-      "to_region": {{"region_id": 6, "label": "consultation_room"}},
-      "spawn_waypoint": "wp_r00_waiting_area_001",
-      "waypoints": ["wp_r00_waiting_area_002", "wp_r00_waiting_area_003"],
-      "velocity": 0.8,
-      "desired_velocity": 1.0,
-      "behavior": "brief explanation"
-    }}
-  ],
-  {robot_schema}
-}}
+{output_schema}
 
-可选人物模型列表：
-{character_models_text}
+可选职业类别及数量限制：
+{agent_models_text}
 
 场景专用规则：
 {scene_prompt or "无。"}
@@ -530,11 +580,74 @@ def parse_gemini_response(response_json: dict[str, Any]) -> Any:
     return extract_json_from_text("\n".join(text_chunks))
 
 
+def token_count(value: Any) -> int:
+    if isinstance(value, bool):
+        return 0
+    if isinstance(value, (int, float)):
+        return max(0, int(value))
+    return 0
+
+
+def token_usage_from_dict(data: Any) -> TokenUsage:
+    if not isinstance(data, dict):
+        return TokenUsage()
+    return TokenUsage(
+        input_tokens=token_count(data.get("input_tokens")),
+        output_tokens=token_count(data.get("output_tokens")),
+        reasoning_tokens=token_count(data.get("reasoning_tokens")),
+        cached_tokens=token_count(data.get("cached_tokens")),
+        total_tokens=token_count(data.get("total_tokens")),
+        reported=bool(data.get("reported")),
+    )
+
+
+def combine_token_usage(left: TokenUsage, right: TokenUsage) -> TokenUsage:
+    return TokenUsage(
+        input_tokens=left.input_tokens + right.input_tokens,
+        output_tokens=left.output_tokens + right.output_tokens,
+        reasoning_tokens=left.reasoning_tokens + right.reasoning_tokens,
+        cached_tokens=left.cached_tokens + right.cached_tokens,
+        total_tokens=left.total_tokens + right.total_tokens,
+        reported=left.reported or right.reported,
+    )
+
+
+def format_token_usage(usage: TokenUsage) -> str:
+    if not usage.reported:
+        return "unavailable (provider did not return token usage)"
+    return (
+        f"input={usage.input_tokens}, output={usage.output_tokens}, "
+        f"reasoning={usage.reasoning_tokens}, cached={usage.cached_tokens}, "
+        f"total={usage.total_tokens}"
+    )
+
+
+def parse_gemini_token_usage(response_json: dict[str, Any]) -> TokenUsage:
+    usage = response_json.get("usageMetadata")
+    if not isinstance(usage, dict):
+        return TokenUsage()
+
+    input_tokens = token_count(usage.get("promptTokenCount"))
+    output_tokens = token_count(usage.get("candidatesTokenCount"))
+    reasoning_tokens = token_count(usage.get("thoughtsTokenCount"))
+    total_tokens = token_count(usage.get("totalTokenCount"))
+    if total_tokens == 0:
+        total_tokens = input_tokens + output_tokens + reasoning_tokens
+    return TokenUsage(
+        input_tokens=input_tokens,
+        output_tokens=output_tokens,
+        reasoning_tokens=reasoning_tokens,
+        cached_tokens=token_count(usage.get("cachedContentTokenCount")),
+        total_tokens=total_tokens,
+        reported=True,
+    )
+
+
 def call_gemini_llm(
     config: dict[str, Any],
     prompt: str,
     image_paths: list[Path],
-) -> Any:
+) -> LLMCallResult:
     api_base_url = config_value(config, "api_base_url").rstrip("/")
     api_key = config_value(config, "api_key")
     model_id = str(config.get("model_id") or config.get("model_path") or "")
@@ -554,6 +667,10 @@ def call_gemini_llm(
             "responseMimeType": "application/json",
         },
     }
+    if config.get("max_output_tokens"):
+        payload["generationConfig"]["maxOutputTokens"] = int(
+            config["max_output_tokens"]
+        )
     timeout = float(config.get("timeout", 180))
 
     try:
@@ -567,7 +684,11 @@ def call_gemini_llm(
     except requests.RequestException as exc:
         message = str(exc).replace(api_key, "<redacted-api-key>")
         raise RuntimeError(f"LLM request failed: {message}") from exc
-    return parse_gemini_response(response.json())
+    response_json = response.json()
+    return LLMCallResult(
+        data=parse_gemini_response(response_json),
+        usage=parse_gemini_token_usage(response_json),
+    )
 
 
 def parse_openai_responses_response(response_json: dict[str, Any]) -> Any:
@@ -584,11 +705,43 @@ def parse_openai_responses_response(response_json: dict[str, Any]) -> Any:
     return extract_json_from_text("\n".join(text_chunks))
 
 
+def parse_openai_token_usage(response_json: dict[str, Any]) -> TokenUsage:
+    usage = response_json.get("usage")
+    if not isinstance(usage, dict):
+        return TokenUsage()
+
+    input_details = usage.get("input_tokens_details")
+    output_details = usage.get("output_tokens_details")
+    cached_tokens = (
+        token_count(input_details.get("cached_tokens"))
+        if isinstance(input_details, dict)
+        else 0
+    )
+    reasoning_tokens = (
+        token_count(output_details.get("reasoning_tokens"))
+        if isinstance(output_details, dict)
+        else 0
+    )
+    input_tokens = token_count(usage.get("input_tokens"))
+    output_tokens = token_count(usage.get("output_tokens"))
+    total_tokens = token_count(usage.get("total_tokens"))
+    if total_tokens == 0:
+        total_tokens = input_tokens + output_tokens
+    return TokenUsage(
+        input_tokens=input_tokens,
+        output_tokens=output_tokens,
+        reasoning_tokens=reasoning_tokens,
+        cached_tokens=cached_tokens,
+        total_tokens=total_tokens,
+        reported=True,
+    )
+
+
 def call_openai_responses_llm(
     config: dict[str, Any],
     prompt: str,
     image_paths: list[Path],
-) -> Any:
+) -> LLMCallResult:
     api_base_url = config_value(config, "api_base_url").rstrip("/")
     api_key = config_value(config, "api_key")
     model_id = config_value(config, "model_id")
@@ -607,8 +760,9 @@ def call_openai_responses_llm(
     payload: dict[str, Any] = {
         "model": model_id,
         "input": [{"role": "user", "content": content}],
-        "temperature": float(config.get("temperature", 0)),
     }
+    if config.get("temperature") is not None:
+        payload["temperature"] = float(config["temperature"])
     if config.get("max_output_tokens"):
         payload["max_output_tokens"] = int(config["max_output_tokens"])
     if config.get("reasoning_effort"):
@@ -629,16 +783,29 @@ def call_openai_responses_llm(
     except requests.RequestException as exc:
         message = str(exc).replace(api_key, "<redacted-api-key>")
         raise RuntimeError(f"OpenAI LLM request failed: {message}") from exc
-    return parse_openai_responses_response(response.json())
+    response_json = response.json()
+    return LLMCallResult(
+        data=parse_openai_responses_response(response_json),
+        usage=parse_openai_token_usage(response_json),
+    )
 
 
-def call_llm(config: dict[str, Any], prompt: str, image_paths: list[Path]) -> Any:
+def call_llm_with_usage(
+    config: dict[str, Any],
+    prompt: str,
+    image_paths: list[Path],
+) -> LLMCallResult:
     llm_type = str(config.get("type", "gemini")).lower()
     if llm_type in {"gemini", "google"}:
         return call_gemini_llm(config, prompt, image_paths)
     if llm_type in {"openai", "openai_responses", "responses"}:
         return call_openai_responses_llm(config, prompt, image_paths)
     raise ValueError(f"Unsupported LLM config type: {llm_type}")
+
+
+def call_llm(config: dict[str, Any], prompt: str, image_paths: list[Path]) -> Any:
+    """Compatibility wrapper returning only parsed model data."""
+    return call_llm_with_usage(config, prompt, image_paths).data
 
 
 def extract_pixel(value: Any, field_name: str) -> tuple[float, float]:
@@ -885,6 +1052,32 @@ def build_robot_entry(
     }
 
 
+def validated_agent_models(
+    agents: list[dict[str, Any]],
+    default_model: str,
+) -> list[str]:
+    models: list[str] = []
+    counts = {model: 0 for model in AVAILABLE_AGENT_MODELS}
+
+    for index, agent in enumerate(agents, start=1):
+        name = str(agent.get("name") or f"hunav_{index}")
+        raw_model = agent.get("model") or default_model
+        if not isinstance(raw_model, str) or raw_model not in AVAILABLE_AGENT_MODELS:
+            allowed = ", ".join(AVAILABLE_AGENT_MODELS)
+            raise ValueError(
+                f"{name}.model must be one of: {allowed}; got {raw_model!r}"
+            )
+        models.append(raw_model)
+        counts[raw_model] += 1
+
+    for model, limit in AGENT_MODEL_LIMITS.items():
+        if counts[model] > limit:
+            raise ValueError(
+                f"scenario contains {counts[model]} {model} agents; maximum is {limit}"
+            )
+    return models
+
+
 def build_scenario(
     agents: list[dict[str, Any]],
     mapping: CameraRayMapping,
@@ -892,15 +1085,16 @@ def build_scenario(
     waypoint_lookup: dict[str, tuple[float, float]] | None = None,
 ) -> dict[str, list[dict[str, Any]]]:
     dynamic_agents: list[dict[str, Any]] = []
+    agent_models = validated_agent_models(agents, args.default_model)
 
-    for index, agent in enumerate(agents, start=1):
+    for index, (agent, agent_model) in enumerate(zip(agents, agent_models), start=1):
         name = str(agent.get("name") or f"hunav_{index}")
         pose, waypoints = route_from_agent(agent, name, mapping, args, waypoint_lookup)
 
         dynamic_agents.append(
             {
                 "name": name,
-                "model": str(agent.get("model") or args.default_model),
+                "model": agent_model,
                 "pose": pose,
                 "behavior_tree": str(agent.get("behavior_tree") or args.default_behavior_tree),
                 "velocity": rounded(float(agent.get("velocity", args.default_velocity)), args.round),
@@ -952,7 +1146,13 @@ def main() -> None:
             print(f"{image_index}. {image_path}")
         return
 
-    llm_data = call_llm(llm_config, prompt, llm_image_paths)
+    llm_result = call_llm_with_usage(llm_config, prompt, llm_image_paths)
+    llm_data = llm_result.data
+    print(
+        TOKEN_USAGE_PREFIX
+        + json.dumps(llm_result.usage.to_dict(), separators=(",", ":")),
+        flush=True,
+    )
 
     if args.save_llm_output:
         save_path = Path(args.save_llm_output).expanduser().resolve()

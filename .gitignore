@@ -15,3 +15,11 @@ configs/*secret*.yaml
 .DS_Store
 .vscode/
 .idea/
+
+# Generated outputs / local backups
+new_outputs/
+new_outputs_*/
+test_outputs*/
+previews/
+backups/
+*.rar
