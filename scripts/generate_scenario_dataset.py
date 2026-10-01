@@ -83,9 +83,9 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument("--overwrite", action="store_true")
     parser.add_argument(
-        "--render-previews",
+        "--skip-previews",
         action="store_true",
-        help="Render individual previews after generation. Disabled by default.",
+        help="Do not render individual scenario preview images.",
     )
     parser.add_argument(
         "--render-overview",
@@ -209,7 +209,7 @@ def main() -> None:
         ]
         if args.overwrite:
             command.append("--overwrite")
-        if not args.render_previews and not args.render_overview:
+        if args.skip_previews:
             command.append("--skip-previews")
         elif not args.render_overview:
             command.append("--skip-overview")

@@ -181,11 +181,13 @@ python3 scripts/generate_scenario_dataset.py \
   --dry-run
 ```
 
-10,000 条数据默认只生成 JSON 和 YAML，不生成预览。使用
-`--only-scene <scene_id>` 可以只生成固定计划中的某个场景。程序会跳过已存在且有效的
-结果，并在最后输出跨全部场景的 token 总计。
+10,000 条数据默认会为每条 scenario 生成独立的 `scenario_preview.png`，但不会把同一
+场景的数百张预览拼成总览图。完全不需要预览时可以添加 `--skip-previews`；确实需要
+总览时添加 `--render-overview`。使用 `--only-scene <scene_id>` 可以只生成固定计划中的
+某个场景。程序会跳过已存在且有效的结果和预览，并在最后输出跨全部场景的 token 总计。
 
-全部数据生成完成后，可以在不配置 LLM、也不调用 API 的情况下离线生成每条独立预览：
+如果生成阶段使用了 `--skip-previews`，之后仍可在不配置 LLM、也不调用 API 的情况下
+离线生成每条独立预览：
 
 ```bash
 python3 scripts/render_dataset_previews.py \
