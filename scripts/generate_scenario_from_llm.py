@@ -455,6 +455,14 @@ def build_llm_prompt(
   {robot_schema}
 }}"""
     if batch_agent_counts:
+        batch_output_reminder = (
+            f"\n最终输出检查：本次只返回一个 JSON 对象，其中 scenarios 数组必须恰好有 {len(batch_agent_counts)} 项。"
+            f"数组下标只能是 0 到 {len(batch_agent_counts) - 1}，不存在 scenarios[{len(batch_agent_counts)}]。"
+            "schema 仅用于说明单项结构，不是需要额外生成的一条；历史路线仅供参考，不得复制为额外项。"
+            "不要把示例、历史方案、备选方案或总结加入数组。"
+            f"按数组顺序，各项 agents 数量必须依次为 {json.dumps(batch_agent_counts)}。"
+            "输出前在内部逐项核对数组长度和人数，最终只输出所要求的 JSON。\n"
+        )
         count_lines = "\n".join(
             f"  - scenarios[{index}] 必须恰好包含 {count} 个 agents。"
             for index, count in enumerate(batch_agent_counts)
@@ -469,6 +477,7 @@ def build_llm_prompt(
   ]
 }}"""
     else:
+        batch_output_reminder = ""
         output_requirement = "- 输出必须包含 agents 和 robot。"
         output_schema = scenario_schema
 
@@ -529,6 +538,7 @@ def build_llm_prompt(
 
 用户需求：
 {user_prompt or "请为这个室内场景生成一个规模较小且合理的行人仿真场景。"}
+{batch_output_reminder}
 """
 
 

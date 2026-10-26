@@ -296,8 +296,10 @@ def batch_variant_prompt(
     retry_rule = ""
     if attempt > 1:
         retry_rule = (
-            f"\n这是本批的第 {attempt} 次尝试，请明显调整各条 scenario 的"
-            "起点、终点或主要路线。"
+            f"\n这是本批的第 {attempt} 次尝试，上一批未通过检查。"
+            f"请先核对 scenarios 必须恰好有 {len(items)} 项（下标 0 到 {len(items) - 1}），"
+            "不能多出或缺少任何一项，并逐项满足上述指定人数；"
+            "同时调整各条 scenario 的起点、终点或主要路线以避免重复。"
         )
     return f"""{common_prompt}
 
